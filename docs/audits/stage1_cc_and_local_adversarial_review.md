@@ -31,7 +31,7 @@
 - Command kind: `review`
 - Target: branch diff against `HEAD~1`
 - Job id: `review-mq99zihj-9c6boh`
-- Status when checked: running/tool phase after API retry.
+- Status when checked: stale running/tool phase after API retry; the recorded process was no longer present.
 - Usable findings at the time of this audit file: none.
 
 ## Local Adversarial Findings
