@@ -1,0 +1,1792 @@
+{
+  "collection": {
+    "collectionID": 64,
+    "collectionName": "残差强化学习",
+    "parentCollectionID": 49
+  },
+  "parentCollectionName": "毕业论文",
+  "count": 57,
+  "items": [
+    {
+      "itemID": 4131,
+      "key": "EWAS42ZG",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-15 14:59:36",
+      "dateModified": "2026-04-23 07:18:07",
+      "title": "A residual reinforcement learning method for robotic assembly using visual and force information",
+      "year": "2024",
+      "date": "2024-00-00 2024",
+      "creators": [
+        "Zhuangzhuang Zhang",
+        "Yizhao Wang",
+        "Zhinan Zhang",
+        "Lihui Wang",
+        "Huang Huang",
+        "Qixin Cao"
+      ],
+      "venue": "Journal of Manufacturing Systems",
+      "DOI": "10.1016/j.jmsy.2023.11.008",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0278612523002352",
+      "abstractNote": null,
+      "extra": "titleTranslation: 基于视觉和力信息的机器人装配的残差强化学习方法",
+      "citationKey": "zhangResidualReinforcementLearning2024",
+      "attachments": [],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4132,
+      "key": "647KYB2R",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-15 14:59:36",
+      "dateModified": "2026-04-23 07:17:41",
+      "title": "A deep residual reinforcement learning algorithm based on Soft Actor-Critic for autonomous navigation",
+      "year": "2025",
+      "date": "2025-00-00 2025",
+      "creators": [
+        "Shuhuan Wen",
+        "Yili Shu",
+        "Ahmad Rad",
+        "Zeteng Wen",
+        "Zhengzheng Guo",
+        "Simeng Gong"
+      ],
+      "venue": "Expert Systems with Applications",
+      "DOI": null,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0957417424021055",
+      "abstractNote": null,
+      "extra": "titleTranslation: 基于软演员-评论员的自适应导航深度残差强化学习算法",
+      "citationKey": "wenDeepResidualReinforcement2025",
+      "attachments": [],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4133,
+      "key": "N5P2678W",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-15 14:59:36",
+      "dateModified": "2026-05-21 07:30:51",
+      "title": "Traffic expertise meets residual RL: knowledge-informed model-based residual reinforcement learning for CAV trajectory control",
+      "year": "2024",
+      "date": "2024-00-00 2024",
+      "creators": [
+        "Zihao Sheng",
+        "Zilin Huang",
+        "Sikai Chen"
+      ],
+      "venue": "Communications in Transportation Research",
+      "DOI": "10.1016/j.commtr.2024.100142",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2772424724000258",
+      "abstractNote": null,
+      "extra": "titleTranslation: 交通领域专业知识与剩余强化学习结合：基于知识的模型残差强化学习用于自动驾驶车辆轨迹控制",
+      "citationKey": "shengTrafficExpertiseMeets2024",
+      "attachments": [
+        {
+          "itemID": 4257,
+          "key": "9BD2BXIJ",
+          "contentType": "application/pdf",
+          "path": "storage:Sheng 等 - 2024 - Traffic expertise meets residual RL knowledge-informed model-based residual reinforcement learning.pdf",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\9BD2BXIJ\\Sheng 等 - 2024 - Traffic expertise meets residual RL knowledge-informed model-based residual reinforcement learning.pdf",
+          "exists": true
+        }
+      ],
+      "pdfCount": 1
+    },
+    {
+      "itemID": 4134,
+      "key": "IRMRV8WF",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-15 14:59:36",
+      "dateModified": "2026-04-23 07:18:34",
+      "title": "Residual reinforcement learning for motion control of a bionic exploration robot—RoboDact",
+      "year": "2023",
+      "date": "2023-00-00 2023",
+      "creators": [
+        "Tiandong Zhang",
+        "Rui Wang",
+        "Shuo Wang",
+        "Yu Wang",
+        "Gang Zheng",
+        "Min Tan"
+      ],
+      "venue": "IEEE Transactions on Instrumentation and Measurement",
+      "DOI": null,
+      "url": "https://ieeexplore.ieee.org/abstract/document/10143310/",
+      "abstractNote": null,
+      "extra": "titleTranslation: 剩余强化学习在仿生探索机器人运动控制中的应用——RoboDact",
+      "citationKey": "zhangResidualReinforcementLearning2023",
+      "attachments": [],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4135,
+      "key": "ZY6DSC68",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-15 14:59:36",
+      "dateModified": "2026-04-23 07:18:28",
+      "title": "RESPRECT: speeding-up multi-fingered grasping with residual reinforcement learning",
+      "year": "2024",
+      "date": "2024-00-00 2024",
+      "creators": [
+        "Federico Ceola",
+        "Lorenzo Rosasco",
+        "Lorenzo Natale"
+      ],
+      "venue": "IEEE Robotics and Automation Letters",
+      "DOI": "10.1109/LRA.2024.3363532",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10423830/",
+      "abstractNote": null,
+      "extra": "titleTranslation: 尊重：通过残差强化学习加速多指抓取",
+      "citationKey": "ceolaRESPRECTSpeedingupMultifingered2024",
+      "attachments": [],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4136,
+      "key": "G2M8GJ7Y",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-15 14:59:36",
+      "dateModified": "2026-04-23 07:18:00",
+      "title": "Accelerating residual reinforcement learning with uncertainty estimation",
+      "year": "2025",
+      "date": "2025-00-00 2025",
+      "creators": [
+        "Lakshita Dodeja",
+        "Karl Schmeckpeper",
+        "Shivam Vats",
+        "Thomas Weng",
+        "Mingxi Jia",
+        "George Konidaris",
+        "Stefanie Tellex"
+      ],
+      "venue": "IEEE Robotics and Automation Letters",
+      "DOI": "10.1109/LRA.2025.3636808",
+      "url": "https://ieeexplore.ieee.org/abstract/document/11267054/",
+      "abstractNote": null,
+      "extra": "titleTranslation: 加速带有不确定性估计的残差强化学习",
+      "citationKey": "dodejaAcceleratingResidualReinforcement2025",
+      "attachments": [
+        {
+          "itemID": 4140,
+          "key": "DI7TMU7E",
+          "contentType": "application/pdf",
+          "path": "storage:Dodeja 等 - 2025 - Accelerating residual reinforcement learning with uncertainty estimation.pdf",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\DI7TMU7E\\Dodeja 等 - 2025 - Accelerating residual reinforcement learning with uncertainty estimation.pdf",
+          "exists": true
+        }
+      ],
+      "pdfCount": 1
+    },
+    {
+      "itemID": 4138,
+      "key": "T6B3RHNT",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-15 14:59:36",
+      "dateModified": "2026-04-23 07:18:56",
+      "title": "Autonomous driving at the handling limit using residual reinforcement learning",
+      "year": "2022",
+      "date": "2022-00-00 2022",
+      "creators": [
+        "Xiaohui Hou",
+        "Junzhi Zhang",
+        "Chengkun He",
+        "Yuan Ji",
+        "Junfeng Zhang",
+        "Jinheng Han"
+      ],
+      "venue": "Advanced Engineering Informatics",
+      "DOI": "10.1016/j.aei.2022.101754",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1474034622002129",
+      "abstractNote": null,
+      "extra": "titleTranslation: 自动驾驶在操控极限下的残差强化学习",
+      "citationKey": "houAutonomousDrivingHandling2022",
+      "attachments": [],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4139,
+      "key": "TFDGHXEL",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-15 14:59:36",
+      "dateModified": "2026-04-23 07:18:46",
+      "title": "Vehicle ride comfort optimization in the post-braking phase using residual reinforcement learning",
+      "year": "2023",
+      "date": "2023-00-00 2023",
+      "creators": [
+        "Xiaohui Hou",
+        "Minggang Gan",
+        "Junzhi Zhang",
+        "Shiyue Zhao",
+        "Yuan Ji"
+      ],
+      "venue": "Advanced Engineering Informatics",
+      "DOI": "10.1016/j.aei.2023.102198",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1474034623003269",
+      "abstractNote": null,
+      "extra": "titleTranslation: 车辆制动后阶段利用残差强化学习进行乘坐舒适性优化",
+      "citationKey": "houVehicleRideComfort2023",
+      "attachments": [],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4142,
+      "key": "NJ3ZLA4B",
+      "itemType": "preprint",
+      "dateAdded": "2026-04-16 01:51:55",
+      "dateModified": "2026-04-23 07:17:28",
+      "title": "What makes value learning efficient in residual reinforcement learning?",
+      "year": "2026",
+      "date": "2026-02-11 2026-02-11",
+      "creators": [
+        "Guozheng Ma",
+        "Lu Li",
+        "Haoyu Wang",
+        "Zixuan Liu",
+        "Pierre-Luc Bacon",
+        "Dacheng Tao"
+      ],
+      "venue": null,
+      "DOI": "10.48550/arXiv.2602.10539",
+      "url": "http://arxiv.org/abs/2602.10539",
+      "abstractNote": "Residual reinforcement learning (RL) enables stable online refinement of expressive pretrained policies by freezing the base and learning only bounded corrections. However, value learning in residual RL poses unique challenges that remain poorly understood. In this work, we identify two key bottlenecks: cold start pathology, where the critic lacks knowledge of the value landscape around the base policy, and structural scale mismatch, where the residual contribution is dwarfed by the base action. Through systematic investigation, we uncover the mechanisms underlying these bottlenecks, revealing that simple yet principled solutions suffice: base-policy transitions serve as an essential value anchor for implicit warmup, and critic normalization effectively restores representation sensitivity for discerning value differences. Based on these insights, we propose DAWN (Data-Anchored Warmup and Normalization), a minimal approach targeting efficient value learning in residual RL. By addressing these bottlenecks, DAWN demonstrates substantial efficiency gains across diverse benchmarks, policy architectures, and observation modalities.",
+      "extra": "arXiv:2602.10539 [cs]\ntitleTranslation: 什么使得值学习在残差强化学习中效率高？",
+      "citationKey": "maWhatMakesValue2026",
+      "attachments": [
+        {
+          "itemID": 4152,
+          "key": "Y2P8U2WG",
+          "contentType": "application/pdf",
+          "path": "storage:Ma 等 - 2026 - What makes value learning efficient in residual reinforcement learning.pdf",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\Y2P8U2WG\\Ma 等 - 2026 - What makes value learning efficient in residual reinforcement learning.pdf",
+          "exists": true
+        }
+      ],
+      "pdfCount": 1
+    },
+    {
+      "itemID": 4143,
+      "key": "GLHJSDSY",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 01:51:55",
+      "dateModified": "2026-04-23 07:18:50",
+      "title": "Multi-modal legged locomotion framework with automated residual reinforcement learning",
+      "year": "2022",
+      "date": "2022-00-00 2022",
+      "creators": [
+        "Chen Yu",
+        "Andre Rosendo"
+      ],
+      "venue": "IEEE Robotics and Automation Letters",
+      "DOI": "10.1109/LRA.2022.3191071",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9830825/",
+      "abstractNote": null,
+      "extra": "titleTranslation: 多模态腿部运动框架与自动残差强化学习",
+      "citationKey": "yuMultimodalLeggedLocomotion2022",
+      "attachments": [
+        {
+          "itemID": 4153,
+          "key": "LJHMRCZ3",
+          "contentType": "application/pdf",
+          "path": "storage:Yu和Rosendo - 2022 - Multi-modal legged locomotion framework with automated residual reinforcement learning.pdf",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\LJHMRCZ3\\Yu和Rosendo - 2022 - Multi-modal legged locomotion framework with automated residual reinforcement learning.pdf",
+          "exists": true
+        }
+      ],
+      "pdfCount": 1
+    },
+    {
+      "itemID": 4144,
+      "key": "ISAUQ4LB",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 01:51:55",
+      "dateModified": "2026-04-23 07:17:51",
+      "title": "Multimodal task attention residual reinforcement learning: advancing robotic assembly in unstructured environment",
+      "year": "2025",
+      "date": "2025-00-00 2025",
+      "creators": [
+        "Ze Lin",
+        "Chuang Wang",
+        "Sihan Wu",
+        "Longhan Xie"
+      ],
+      "venue": "IEEE Robotics and Automation Letters",
+      "DOI": "10.1109/LRA.2025.3547647",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10909176/",
+      "abstractNote": null,
+      "extra": "titleTranslation: 多模态任务注意力残差强化学习：推动无结构环境中的机器人装配",
+      "citationKey": "linMultimodalTaskAttention2025",
+      "attachments": [],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4145,
+      "key": "WY2WM65W",
+      "itemType": "conferencePaper",
+      "dateAdded": "2026-04-16 01:51:55",
+      "dateModified": "2026-04-23 07:17:36",
+      "title": "Proxfly: robust control for close proximity quadcopter flight via residual reinforcement learning",
+      "year": "2025",
+      "date": "2025-00-00 2025",
+      "creators": [
+        "Ruiqi Zhang",
+        "Dingqi Zhang",
+        "Mark W. Mueller"
+      ],
+      "venue": "2025 IEEE International Conference on Robotics and Automation (ICRA)",
+      "DOI": "10.1109/ICRA55743.2025.11127714",
+      "url": "https://ieeexplore.ieee.org/abstract/document/11127714/",
+      "abstractNote": null,
+      "extra": "titleTranslation: Proxfly：通过残差强化学习实现的近距四旋翼飞行鲁棒控制",
+      "citationKey": "zhangProxflyRobustControl2025",
+      "attachments": [
+        {
+          "itemID": 4154,
+          "key": "4SULAG8J",
+          "contentType": "application/pdf",
+          "path": "storage:Zhang 等 - 2025 - Proxfly robust control for close proximity quadcopter flight via residual reinforcement learning.pdf",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\4SULAG8J\\Zhang 等 - 2025 - Proxfly robust control for close proximity quadcopter flight via residual reinforcement learning.pdf",
+          "exists": true
+        }
+      ],
+      "pdfCount": 1
+    },
+    {
+      "itemID": 4146,
+      "key": "HEP6X26K",
+      "itemType": "preprint",
+      "dateAdded": "2026-04-16 01:51:55",
+      "dateModified": "2026-04-23 07:17:25",
+      "title": "Incremental residual reinforcement learning toward real-world learning for social navigation",
+      "year": "2026",
+      "date": "2026-04-09 2026-04-09",
+      "creators": [
+        "Haruto Nagahisa",
+        "Kohei Matsumoto",
+        "Yuki Tomita",
+        "Yuki Hyodo",
+        "Ryo Kurazume"
+      ],
+      "venue": null,
+      "DOI": "10.48550/arXiv.2604.07945",
+      "url": "http://arxiv.org/abs/2604.07945",
+      "abstractNote": "As the demand for mobile robots continues to increase, social navigation has emerged as a critical task, driving active research into deep reinforcement learning (RL) approaches. However, because pedestrian dynamics and social conventions vary widely across different regions, simulations cannot easily encompass all possible real-world scenarios. Real-world RL, in which agents learn while operating directly in physical environments, presents a promising solution to this issue. Nevertheless, this approach faces significant challenges, particularly regarding constrained computational resources on edge devices and learning efficiency. In this study, we propose incremental residual RL (IRRL). This method integrates incremental learning, which is a lightweight process that operates without a replay buffer or batch updates, with residual RL, which enhances learning efficiency by training only on the residuals relative to a base policy. Through the simulation experiments, we demonstrated that, despite lacking a replay buffer, IRRL achieved performance comparable to those of conventional replay buffer-based methods and outperformed existing incremental learning approaches. Furthermore, the real-world experiments confirmed that IRRL can enable robots to effectively adapt to previously unseen environments through the real-world learning.",
+      "extra": "arXiv:2604.07945 [cs]\ntitleTranslation: 增量残差强化学习：迈向真实世界的社会导航学习",
+      "citationKey": "nagahisaIncrementalResidualReinforcement2026",
+      "attachments": [
+        {
+          "itemID": 4155,
+          "key": "M35YJ8DF",
+          "contentType": "application/pdf",
+          "path": "storage:Nagahisa 等 - 2026 - Incremental residual reinforcement learning toward real-world learning for social navigation.pdf",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\M35YJ8DF\\Nagahisa 等 - 2026 - Incremental residual reinforcement learning toward real-world learning for social navigation.pdf",
+          "exists": true
+        }
+      ],
+      "pdfCount": 1
+    },
+    {
+      "itemID": 4147,
+      "key": "FXWM5SWZ",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 01:51:55",
+      "dateModified": "2026-04-23 07:17:39",
+      "title": "I-ctrl: imitation to control humanoid robots through bounded residual reinforcement learning",
+      "year": "2025",
+      "date": "2025-00-00 2025",
+      "creators": [
+        "Yashuai Yan",
+        "Esteve Valls Mascaro",
+        "Tobias Egle",
+        "Dongheui Lee"
+      ],
+      "venue": "IEEE Robotics and Automation Magazine",
+      "DOI": "10.1109/MRA.2025.3527284",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10870445/",
+      "abstractNote": null,
+      "extra": "titleTranslation: 我-ctrl：通过有界残差强化学习控制类人形机器人",
+      "citationKey": "yanIctrlImitationControl2025",
+      "attachments": [],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4148,
+      "key": "9WPZ43Z6",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 01:51:55",
+      "dateModified": "2026-04-23 07:17:57",
+      "title": "Hierarchical residual reinforcement learning based path tracking control method for unmanned bicycle",
+      "year": "2025",
+      "date": "2025-00-00 2025",
+      "creators": [
+        "Benyan Huo",
+        "Long Yu",
+        "Yanhong Liu",
+        "Zhang Chen"
+      ],
+      "venue": "Robotics and Autonomous Systems",
+      "DOI": "10.1016/j.robot.2025.104996",
+      "url": "https://www.sciencedirect.com/science/article/pii/S092188902500082X",
+      "abstractNote": null,
+      "extra": "titleTranslation: 基于分层残差强化学习的无人自行车路径跟踪控制方法",
+      "citationKey": "huoHierarchicalResidualReinforcement2025",
+      "attachments": [],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4149,
+      "key": "L99B6954",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 01:51:55",
+      "dateModified": "2026-04-23 07:18:39",
+      "title": "Research on robot massage force control based on residual reinforcement learning",
+      "year": "2023",
+      "date": "2023-00-00 2023",
+      "creators": [
+        "Meng Xiao",
+        "Tie Zhang",
+        "Yanbiao Zou",
+        "Shouyan Chen",
+        "Wen Wu"
+      ],
+      "venue": "IEEE Access",
+      "DOI": "10.1109/ACCESS.2023.3347416",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10374025/",
+      "abstractNote": null,
+      "extra": "titleTranslation: 基于残差强化学习的机器人按摩力度控制研究",
+      "citationKey": "xiaoResearchRobotMassage2023",
+      "attachments": [
+        {
+          "itemID": 4156,
+          "key": "IHHAGLEQ",
+          "contentType": "application/pdf",
+          "path": "storage:Xiao 等 - 2023 - Research on robot massage force control based on residual reinforcement learning.pdf",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\IHHAGLEQ\\Xiao 等 - 2023 - Research on robot massage force control based on residual reinforcement learning.pdf",
+          "exists": true
+        }
+      ],
+      "pdfCount": 1
+    },
+    {
+      "itemID": 4150,
+      "key": "FMLTY9DP",
+      "itemType": "conferencePaper",
+      "dateAdded": "2026-04-16 01:51:55",
+      "dateModified": "2026-04-23 07:17:47",
+      "title": "Visual reinforcement learning with residual action",
+      "year": "2025",
+      "date": "2025-00-00 2025",
+      "creators": [
+        "Zhenxian Liu",
+        "Peixi Peng",
+        "Yonghong Tian"
+      ],
+      "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "DOI": null,
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/34097",
+      "abstractNote": null,
+      "extra": "titleTranslation: 视觉残差动作强化学习",
+      "citationKey": "liuVisualReinforcementLearning2025",
+      "attachments": [],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4151,
+      "key": "L5R55V3J",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 01:51:55",
+      "dateModified": "2026-04-23 08:38:11",
+      "title": "Residual reinforcement learning enhanced with unsuccessful episode buffer",
+      "year": "2025",
+      "date": "2025-00-00 2025",
+      "creators": [
+        "Peter Farkas",
+        "Tamas Becsi",
+        "Szilard Aradi"
+      ],
+      "venue": "IEEE Open Journal of the Computer Society",
+      "DOI": "10.1109/OJCS.2025.3637504",
+      "url": "https://ieeexplore.ieee.org/abstract/document/11269680/",
+      "abstractNote": null,
+      "extra": "titleTranslation: 剩余强化学习与不成功片段缓冲区增强",
+      "citationKey": "farkasResidualReinforcementLearning2025",
+      "attachments": [],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4157,
+      "key": "M6PQS4UC",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 01:56:17",
+      "dateModified": "2026-04-23 07:17:43",
+      "title": "Hierarchical residual reinforcement learning-based robust control for nonlinear systems with piecewise disturbances",
+      "year": "2025",
+      "date": "2025-12-09 2025-12-09",
+      "creators": [
+        "Hongwei Wang",
+        "Haiying Wan",
+        "Xiaoli Luan",
+        "Fei Liu"
+      ],
+      "venue": "International Journal of Systems Science",
+      "DOI": "10.1080/00207721.2025.2588431",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/00207721.2025.2588431",
+      "abstractNote": null,
+      "extra": "titleTranslation: 基于分层残差强化学习的分段干扰非线性系统鲁棒控制",
+      "citationKey": "wangHierarchicalResidualReinforcement2025",
+      "attachments": [],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4158,
+      "key": "L6RLMRWR",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 01:56:17",
+      "dateModified": "2026-04-23 07:18:24",
+      "title": "Data-informed residual reinforcement learning for high-dimensional robotic tracking control",
+      "year": "2024",
+      "date": "2024-00-00 2024",
+      "creators": [
+        "Cong Li",
+        "Fangzhou Liu",
+        "Yongchao Wang",
+        "Martin Buss"
+      ],
+      "venue": "IEEE/ASME Transactions on Mechatronics",
+      "DOI": "10.1109/TMECH.2024.3412275",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10689563/",
+      "abstractNote": null,
+      "extra": "titleTranslation: 基于数据驱动的残差强化学习用于高维机器人跟踪控制",
+      "citationKey": "liDatainformedResidualReinforcement2024",
+      "attachments": [
+        {
+          "itemID": 4161,
+          "key": "NPF5L9NN",
+          "contentType": "application/pdf",
+          "path": "storage:Li 等 - 2024 - Data-informed residual reinforcement learning for high-dimensional robotic tracking control.pdf",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\NPF5L9NN\\Li 等 - 2024 - Data-informed residual reinforcement learning for high-dimensional robotic tracking control.pdf",
+          "exists": true
+        }
+      ],
+      "pdfCount": 1
+    },
+    {
+      "itemID": 4159,
+      "key": "6LNS3FG6",
+      "itemType": "preprint",
+      "dateAdded": "2026-04-16 01:56:17",
+      "dateModified": "2026-04-23 07:18:44",
+      "title": "Improving wind resistance performance of cascaded PID controlled quadcopters using residual reinforcement learning",
+      "year": "2023",
+      "date": "2023-08-03 2023-08-03",
+      "creators": [
+        "Yu Ishihara",
+        "Yuichi Hazama",
+        "Kousuke Suzuki",
+        "Jerry Jun Yokono",
+        "Kohtaro Sabe",
+        "Kenta Kawamoto"
+      ],
+      "venue": null,
+      "DOI": "10.48550/arXiv.2308.01648",
+      "url": "http://arxiv.org/abs/2308.01648",
+      "abstractNote": "Wind resistance control is an essential feature for quadcopters to maintain their position to avoid deviation from target position and prevent collisions with obstacles. Conventionally, cascaded PID controller is used for the control of quadcopters for its simplicity and ease of tuning its parameters. However, it is weak against wind disturbances and the quadcopter can easily deviate from target position. In this work, we propose a residual reinforcement learning based approach to build a wind resistance controller of a quadcopter. By learning only the residual that compensates the disturbance, we can continue using the cascaded PID controller as the base controller of the quadcopter but improve its performance against wind disturbances. To avoid unexpected crashes and destructions of quadcopters, our method does not require real hardware for data collection and training. The controller is trained only on a simulator and directly applied to the target hardware without extra finetuning process. We demonstrate the effectiveness of our approach through various experiments including an experiment in an outdoor scene with wind speed greater than 13 m/s. Despite its simplicity, our controller reduces the position deviation by approximately 50% compared to the quadcopter controlled with the conventional cascaded PID controller. Furthermore, trained controller is robust and preserves its performance even though the quadcopter's mass and propeller's lift coefficient is changed between 50% to 150% from original training time.",
+      "extra": "arXiv:2308.01648 [cs]\ntitleTranslation: 提高级联PID控制四旋翼飞行器的抗风性能，采用残差强化学习",
+      "citationKey": "ishiharaImprovingWindResistance2023",
+      "attachments": [
+        {
+          "itemID": 4162,
+          "key": "JHDNGSNY",
+          "contentType": "application/pdf",
+          "path": "storage:Ishihara 等 - 2023 - Improving wind resistance performance of cascaded PID controlled quadcopters using residual reinforc.pdf",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\JHDNGSNY\\Ishihara 等 - 2023 - Improving wind resistance performance of cascaded PID controlled quadcopters using residual reinforc.pdf",
+          "exists": true
+        }
+      ],
+      "pdfCount": 1
+    },
+    {
+      "itemID": 4160,
+      "key": "IQ2TX3JA",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 01:56:17",
+      "dateModified": "2026-04-23 07:17:21",
+      "title": "MoReL: a generalizable framework for dexterous hand retargeting via modular residual reinforcement learning",
+      "year": "2026",
+      "date": "2026-00-00 2026",
+      "creators": [
+        "Zhenghan Wang",
+        "Yongkang Luo",
+        "Dashun Yan",
+        "Yifan Yang",
+        "Yunjin Fu",
+        "Jia Sun",
+        "Guoqiang Deng",
+        "Peng Wang"
+      ],
+      "venue": "IEEE Robotics and Automation Letters",
+      "DOI": null,
+      "url": "https://ieeexplore.ieee.org/abstract/document/11346968/",
+      "abstractNote": null,
+      "extra": "titleTranslation: MoReL：一种基于模块化残差强化学习的通用灵巧手重定向框架",
+      "citationKey": "wangMoReLGeneralizableFramework2026",
+      "attachments": [],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4163,
+      "key": "AIYD69RN",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 02:13:43",
+      "dateModified": "2026-04-23 07:18:48",
+      "title": "Residual physics and post-posed shielding for safe deep reinforcement learning method",
+      "year": "2022",
+      "date": "2022-00-00 2022",
+      "creators": [
+        "Qingang Zhang",
+        "Muhammad Haiqal Bin Mahbod",
+        "Chin-Boon Chng",
+        "Poh-Seng Lee",
+        "Chee-Kong Chui"
+      ],
+      "venue": "IEEE Transactions on Cybernetics",
+      "DOI": "10.1109/TCYB.2022.3178084",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9796122/",
+      "abstractNote": null,
+      "extra": "titleTranslation: 残差物理和后置屏蔽的安全深度强化学习方法",
+      "citationKey": "zhangResidualPhysicsPostposed2022",
+      "attachments": [],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4164,
+      "key": "CMU3Y2DA",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 02:13:43",
+      "dateModified": "2026-04-23 07:17:53",
+      "title": "Residual reinforcement learning based on inverse kinematic modeling for soft robotic arm control",
+      "year": "2025",
+      "date": "2025-00-00 2025",
+      "creators": [
+        "Jiaqiao Liang",
+        "Gaoming Lou",
+        "Fobao Zhou",
+        "Yumeng Cai",
+        "Chuang Wang",
+        "Yitong Zhou"
+      ],
+      "venue": "Journal of Dynamic Systems Measurement & Control",
+      "DOI": "10.1115/1.4068880",
+      "url": "https://asmedigitalcollection.asme.org/dynamicsystems/article/147/6/061007/1218731",
+      "abstractNote": null,
+      "extra": "titleTranslation: 基于逆运动学建模的软体机器人手臂残差强化学习",
+      "citationKey": "liangResidualReinforcementLearning2025",
+      "attachments": [],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4165,
+      "key": "YQMFA59B",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 02:18:28",
+      "dateModified": "2026-04-23 07:18:15",
+      "title": "Task-driven autonomous driving: balanced strategies integrating curriculum reinforcement learning and residual policy",
+      "year": "2024",
+      "date": "2024-11-00 2024-11",
+      "creators": [
+        "Jiamin Shi",
+        "Tangyike Zhang",
+        "Ziqi Zong",
+        "Shitao Chen",
+        "Jingmin Xin",
+        "Nanning Zheng"
+      ],
+      "venue": "IEEE Robotics and Automation Letters",
+      "DOI": "10.1109/LRA.2024.3448237",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10643664",
+      "abstractNote": "Achieving fully autonomous driving in urban traffic scenarios is a significant challenge that necessitates balancing safety, efficiency, and compliance with traffic regulations. In this letter, we introduce a novel Curriculum Residual Hierarchical Reinforcement Learning (CR-HRL) framework. It integrates a rule-based planning model as a guiding mechanism, while a deep reinforcement learning algorithm generates supplementary residual strategies. This combination enables the RL agent to perform safe and efficient overtaking in complex traffic scenarios. Furthermore, we implement a detailed three-stage curriculum learning strategy that enhances the training process. By progressively increasing task complexity, the curriculum strategy effectively guides the exploration of autonomous vehicles and improves the reusability of sub-strategies. The effectiveness of the CR-HRL framework is confirmed through ablation experiments. Comparative experiments further highlight the superior efficiency and decision-making capabilities of our framework over traditional rule-based and RL baseline methods. Tests conducted with actual vehicles also demonstrate its practical applicability in real-world settings.",
+      "extra": "titleTranslation: 任务驱动的自动驾驶：融合课程强化学习和残差策略的平衡策略",
+      "citationKey": "shiTaskdrivenAutonomousDriving2024",
+      "attachments": [
+        {
+          "itemID": 4167,
+          "key": "HX9MUKTF",
+          "contentType": "text/html",
+          "path": "storage:10643664.html",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\HX9MUKTF\\10643664.html",
+          "exists": true
+        }
+      ],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4166,
+      "key": "8UDSQ2NG",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 02:18:31",
+      "dateModified": "2026-04-23 07:18:25",
+      "title": "Hybrid residual multiexpert reinforcement learning for spatial scheduling of high-density parking lots",
+      "year": "2024",
+      "date": "2024-05-00 2024-05",
+      "creators": [
+        "Jing Hou",
+        "Guang Chen",
+        "Zhijun Li",
+        "Wei He",
+        "Shangding Gu",
+        "Alois Knoll",
+        "Changjun Jiang"
+      ],
+      "venue": "IEEE Transactions on Cybernetics",
+      "DOI": "10.1109/TCYB.2023.3312647",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10290933",
+      "abstractNote": "Industries, such as manufacturing, are accelerating their embrace of the metaverse to achieve higher productivity, especially in complex industrial scheduling. In view of the growing parking challenges in large cities, high-density vehicle spatial scheduling is one of the potential solutions. Stack-based parking lots utilize parking robots to densely park vehicles in the vertical stacks like container stacking, which greatly reduces the aisle area in the parking lot, but requires complex scheduling algorithms to park and take out the vehicles. The existing high-density parking (HDP) scheduling algorithms are mainly heuristic methods, which only contain simple logic and are difficult to utilize information effectively. We propose a hybrid residual multiexpert (HIRE) reinforcement learning (RL) approach, a method for interactive learning in the digital industrial metaverse, which efficiently solves the HDP batch space scheduling problem. In our proposed framework, each heuristic scheduling method is considered as an expert. The neural network trained by RL assigns the expert strategy according to the current parking lot state. Furthermore, to avoid being limited by heuristic expert performance, the proposed hierarchical network framework also sets up a residual output channel. Experiments show that our proposed algorithm outperforms various advanced heuristic methods and the end-to-end RL method in the number of vehicle maneuvers, and has good robustness to the parking lot size and the estimation accuracy of vehicle exit time. We believe that the proposed HIRE RL method can be effectively and conveniently applied to practical application scenarios, which can be regarded as a key step for RL to enter the practical application stage of the industrial metaverse.",
+      "extra": "titleTranslation: 混合残差多专家强化学习用于高密度停车场的空间调度",
+      "citationKey": "houHybridResidualMultiexpert2024",
+      "attachments": [
+        {
+          "itemID": 4168,
+          "key": "IYGBVA8K",
+          "contentType": "text/html",
+          "path": "storage:10290933.html",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\IYGBVA8K\\10290933.html",
+          "exists": true
+        }
+      ],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4169,
+      "key": "9E5E85Q3",
+      "itemType": "conferencePaper",
+      "dateAdded": "2026-04-16 02:21:50",
+      "dateModified": "2026-04-23 07:18:30",
+      "title": "Autonomous blimp control via h<sub>ınfty</sub> robust deep residual reinforcement learning",
+      "year": "2023",
+      "date": "2023-08-00 2023-08",
+      "creators": [
+        "Yang Zuo",
+        "Yu Tang Liu",
+        "Aamir Ahmad"
+      ],
+      "venue": "2023 IEEE 19th International Conference on Automation Science and Engineering (CASE)",
+      "DOI": "10.1109/CASE56687.2023.10260561",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10260561",
+      "abstractNote": "Due to their superior energy efficiency, blimps may replace quadcopters for long-duration aerial tasks. However, designing a controller for blimps to handle complex dynamics, modeling errors, and disturbances remains an unsolved challenge. One recent work combines reinforcement learning (RL) and a PID controller to address this challenge and demonstrates its effectiveness in real-world experiments. In the current work, we build on that using an H<sub>ınfty</sub> robust controller to expand the stability margin and improve the RL agent's performance. Empirical analysis of different mixing methods reveals that the resulting \\mathrmH_ınfty. RL controller outperforms the prior PID-RL combination and can handle more complex tasks involving intensive thrust vectoring. We provide our code as open-source at https://github.com/robot-perception-group/robust_deep_residual_blimp.",
+      "extra": "ISSN: 2161-8089\ntitleTranslation: 自主气艇控制通过h∞鲁棒深度残差强化学习",
+      "citationKey": "zuoAutonomousBlimpControl2023",
+      "attachments": [
+        {
+          "itemID": 4170,
+          "key": "TSE6TFNC",
+          "contentType": "text/html",
+          "path": "storage:10260561.html",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\TSE6TFNC\\10260561.html",
+          "exists": true
+        }
+      ],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4171,
+      "key": "T4LGLJLA",
+      "itemType": "preprint",
+      "dateAdded": "2026-04-16 02:22:10",
+      "dateModified": "2026-04-23 07:18:32",
+      "title": "Autonomous blimp control via H-infinity robust deep residual reinforcement learning",
+      "year": "2023",
+      "date": "2023-03-24 2023-03-24",
+      "creators": [
+        "Yang Zuo",
+        "Yu Tang Liu",
+        "Aamir Ahmad"
+      ],
+      "venue": null,
+      "DOI": "10.48550/arXiv.2303.13929",
+      "url": "http://arxiv.org/abs/2303.13929",
+      "abstractNote": "Due to their superior energy efficiency, blimps may replace quadcopters for long-duration aerial tasks. However, designing a controller for blimps to handle complex dynamics, modeling errors, and disturbances remains an unsolved challenge. One recent work combines reinforcement learning (RL) and a PID controller to address this challenge and demonstrates its effectiveness in real-world experiments. In the current work, we build on that using an H-infinity robust controller to expand the stability margin and improve the RL agent's performance. Empirical analysis of different mixing methods reveals that the resulting H-infinity-RL controller outperforms the prior PID-RL combination and can handle more complex tasks involving intensive thrust vectoring. We provide our code as open-source at https://github.com/robot-perception-group/robust_deep_residual_blimp.",
+      "extra": "arXiv:2303.13929 [cs]\ntitleTranslation: 自主气艇控制通过H-∞鲁棒深度残差强化学习",
+      "citationKey": "zuoAutonomousBlimpControl2023a",
+      "attachments": [
+        {
+          "itemID": 4172,
+          "key": "749D8ZJR",
+          "contentType": "application/pdf",
+          "path": "storage:Zuo 等 - 2023 - Autonomous blimp control via H-infinity robust deep residual reinforcement learning.pdf",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\749D8ZJR\\Zuo 等 - 2023 - Autonomous blimp control via H-infinity robust deep residual reinforcement learning.pdf",
+          "exists": true
+        },
+        {
+          "itemID": 4173,
+          "key": "KM3DQQWF",
+          "contentType": "text/html",
+          "path": "storage:2303.html",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\KM3DQQWF\\2303.html",
+          "exists": true
+        }
+      ],
+      "pdfCount": 1
+    },
+    {
+      "itemID": 4174,
+      "key": "FK8RW7GU",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-15 14:59:36",
+      "dateModified": "2026-04-23 15:16:42",
+      "title": "Adaptive control of a mechatronic system using constrained residual reinforcement learning",
+      "year": "2022",
+      "date": "2022-10-00 2022-10",
+      "creators": [
+        "Tom Staessens",
+        "Tom Lefebvre",
+        "Guillaume Crevecoeur"
+      ],
+      "venue": "IEEE Transactions on Industrial Electronics",
+      "DOI": "10.1109/TIE.2022.3144565",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9693307",
+      "abstractNote": "In this article, we propose a simple, practical, and intuitive approach to improve the performance of a conventional controller in uncertain environments using deep reinforcement learning while maintaining safe operation. Our approach is motivated by the observation that conventional controllers in industrial motion control value robustness over adaptivity to deal with different operating conditions and are suboptimal as a consequence. Reinforcement learning, on the other hand, can optimize a control signal directly from input–output data and thus adapts to operational conditions but lacks safety guarantees, impeding its use in industrial environments. To realize adaptive control using reinforcement learning in such conditions, we follow a residual learning methodology, where a reinforcement learning algorithm learns corrective adaptations to a base controller’s output to increase optimality. We investigate how constraining the residual agent’s actions enables to leverage the base controller’s robustness to guarantee safe operation. We detail the algorithmic design and propose to constrain the residual actions relative to the base controller to increase the method’s robustness. Building on Lyapunov stability theory, we prove stability for a broad class of mechatronic closed-loop systems. We validate our method experimentally on a slider crank setup and investigate how the constraints affect the safety during learning and optimality after convergence.",
+      "extra": "titleTranslation: 机械系统约束残差强化学习的自适应控制",
+      "citationKey": "staessensAdaptiveControlMechatronic2022a",
+      "attachments": [
+        {
+          "itemID": 4141,
+          "key": "TENTZFCY",
+          "contentType": "application/pdf",
+          "path": "storage:Staessens 等 - 2022 - Adaptive control of a mechatronic system using constrained residual reinforcement learning.pdf",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\TENTZFCY\\Staessens 等 - 2022 - Adaptive control of a mechatronic system using constrained residual reinforcement learning.pdf",
+          "exists": true
+        },
+        {
+          "itemID": 4175,
+          "key": "P8FE4HE5",
+          "contentType": "text/html",
+          "path": "storage:9693307.html",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\P8FE4HE5\\9693307.html",
+          "exists": true
+        }
+      ],
+      "pdfCount": 1
+    },
+    {
+      "itemID": 4176,
+      "key": "RJX29GEU",
+      "itemType": "preprint",
+      "dateAdded": "2026-04-16 02:29:19",
+      "dateModified": "2026-04-23 07:17:55",
+      "title": "Residual MPC: blending reinforcement learning with GPU-parallelized model predictive control",
+      "year": "2025",
+      "date": "2025-10-14 2025-10-14",
+      "creators": [
+        "Se Hwan Jeon",
+        "Ho Jae Lee",
+        "Seungwoo Hong",
+        "Sangbae Kim"
+      ],
+      "venue": null,
+      "DOI": "10.48550/arXiv.2510.12717",
+      "url": "http://arxiv.org/abs/2510.12717",
+      "abstractNote": "Model Predictive Control (MPC) provides interpretable, tunable locomotion controllers grounded in physical models, but its robustness depends on frequent replanning and is limited by model mismatch and real-time computational constraints. Reinforcement Learning (RL), by contrast, can produce highly robust behaviors through stochastic training but often lacks interpretability, suffers from out-of-distribution failures, and requires intensive reward engineering. This work presents a GPU-parallelized residual architecture that tightly integrates MPC and RL by blending their outputs at the torque-control level. We develop a kinodynamic whole-body MPC formulation evaluated across thousands of agents in parallel at 100 Hz for RL training. The residual policy learns to make targeted corrections to the MPC outputs, combining the interpretability and constraint handling of model-based control with the adaptability of RL. The model-based control prior acts as a strong bias, initializing and guiding the policy towards desirable behavior with a simple set of rewards. Compared to standalone MPC or end-to-end RL, our approach achieves higher sample efficiency, converges to greater asymptotic rewards, expands the range of trackable velocity commands, and enables zero-shot adaptation to unseen gaits and uneven terrain.",
+      "extra": "arXiv:2510.12717 [cs]\ntitleTranslation: 残差MPC：结合强化学习与GPU并行化模型预测控制",
+      "citationKey": "jeonResidualMPCBlending2025",
+      "attachments": [
+        {
+          "itemID": 4178,
+          "key": "SXPMEULR",
+          "contentType": "text/html",
+          "path": "storage:2510.html",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\SXPMEULR\\2510.html",
+          "exists": true
+        }
+      ],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4179,
+      "key": "4L9RUW7E",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 02:30:00",
+      "dateModified": "2026-04-23 07:18:21",
+      "title": "A reinforcement learning path following strategy for snake robots based on transferable constrained-residual gait generator",
+      "year": "2024",
+      "date": "2024-12-00 2024-12",
+      "creators": [
+        "Lixing Liu",
+        "Xian Guo",
+        "Wei Xi",
+        "Wei Huang",
+        "Yongchun Fang"
+      ],
+      "venue": "IEEE Transactions on Industrial Electronics",
+      "DOI": "10.1109/TIE.2024.3379635",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10508567",
+      "abstractNote": "Due to the high-redundant multilink body configuration and complex ground contact model, accurate and flexible path following is difficult to accomplish for planar snake robots, which has always attracted the attention of many scholars. Many traditional path following controllers can successfully drive a snake robot to follow comparatively simple paths. Yet, for more complex paths, such as paths with discontinuous curvature, the accuracy and generalizability are always unsatisfactory. Therefore, in this article, a novel reinforcement learning (RL) strategy based on transferable constrained-residual gait generator (CRGG) is proposed for path following of snake robots, which ensures accurate, efficient, and agile following for any target paths. Specifically, first, to enhance the generalizability of the policy in various path following tasks, the training for specific path following is converted into the training for random points following, which gives a snake robot good generalizability for any target paths represented by a set of target points. Subsequently, the transferable RL algorithm CRGG is proposed to regulate the constrained motion gait while concurrently compensating for it in a residual manner, in which the following performance is guaranteed, especially for the complex paths with discontinuous curvature. Simulation and sufficient experimental results are provided to illustrate the superior performance of the proposed RL controller in terms of path following ability, generalizability, and robustness.",
+      "extra": "titleTranslation: 强化学习蛇形机器人路径跟随策略：基于可迁移的约束残差步态生成器",
+      "citationKey": "liuReinforcementLearningPath2024",
+      "attachments": [
+        {
+          "itemID": 4180,
+          "key": "W5PFIHX9",
+          "contentType": "text/html",
+          "path": "storage:10508567.html",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\W5PFIHX9\\10508567.html",
+          "exists": true
+        }
+      ],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4184,
+      "key": "BGNU3ZV6",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 02:34:30",
+      "dateModified": "2026-04-23 07:18:05",
+      "title": "Task-oriented safety field for robot control in human-robot collaborative assembly based on residual learning",
+      "year": "2024",
+      "date": "2024-03-00 03/2024",
+      "creators": [
+        "Cheng Zhu",
+        "Tian Yu",
+        "Qing Chang"
+      ],
+      "venue": "Expert Systems with Applications",
+      "DOI": "10.1016/j.eswa.2023.121946",
+      "url": "https://linkinghub.elsevier.com/retrieve/pii/S095741742302448X",
+      "abstractNote": "With the development of smart manufacturing, human-robot collaboration (HRC) is seen as the future of manufacturing. In a manufacturing environment with HRC, safety has been raising significant attention since the conventional separation of workspaces between robots and humans is removed. In this paper, a dynamic safety field is constructed that takes into account the collaborative assembly task requirements and the motions of both humans and robots. This safety field guides robot actions, ensuring that the robot carries out the required tasks while maintaining a safe distance from human workers. Based on the task requirements and safety considerations between humans and robots, a robot motion planning and control problem is formulated. To solve this problem, a hybrid RRL control scheme is proposed where a residual reinforcement learning (RRL) method is developed to combine the safety field-based control method with a deep reinforcement learning (DRL) method. Numerical studies are conducted to evaluate the performance of the proposed, which is compared with a pure deep Qnetwork (DQN) based method and a rapidly exploring random tree (RRT) method. The simulation results show that the proposed method can effectively optimize robot trajectories and outperforms the DQN-based and the RRT method in terms of computational efficiency.",
+      "extra": "titleTranslation: 面向任务的残差学习在人类-机器人协作装配中机器人控制的安全领域",
+      "citationKey": "zhuTaskorientedSafetyField2024",
+      "attachments": [
+        {
+          "itemID": 4183,
+          "key": "SCMGE5IR",
+          "contentType": "application/pdf",
+          "path": "storage:Zhu 等 - 2024 - Task-oriented safety field for robot control in human-robot collaborative assembly based on residual.pdf",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\SCMGE5IR\\Zhu 等 - 2024 - Task-oriented safety field for robot control in human-robot collaborative assembly based on residual.pdf",
+          "exists": true
+        }
+      ],
+      "pdfCount": 1
+    },
+    {
+      "itemID": 4185,
+      "key": "8CXH3SD8",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 02:36:06",
+      "dateModified": "2026-04-16 02:36:09",
+      "title": "Intelligent attitude-Orbit coupled control for large flexible spacecraft: A deep reinforcement learning-enhanced sliding mode approach面向大型柔性航天器的智能姿态-轨道耦合控制：一种基于深度强化学习的滑模控制方法",
+      "year": "2026",
+      "date": "2026-05-01 2026-05-01",
+      "creators": [
+        "Zefei Yan",
+        "Shuo Zhang",
+        "Suting Cai",
+        "Tongtong Sun",
+        "Lu Liu"
+      ],
+      "venue": "Aerospace Science and Technology",
+      "DOI": "10.1016/j.ast.2026.111744",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1270963826001252",
+      "abstractNote": "Stabilization control of large spacecraft after capturing massive, non-cooperative targets for On-Orbit Servicing (OOS) presents a critical challenge due to strong attitude-orbit coupling and complex nonlinear dynamics. Traditional Sliding Mode Control (SMC) is often limited by its reliance on fixed parameters and its propensity for actuator-damaging chattering. To address these issues, this paper proposes an innovative intelligent control framework: ”Adaptive Parameter and Residual Reinforcement Learning Sliding Mode Control (APR-RL-SMC)”. Initially, we derive a nine-degree-of-freedom, high-fidelity attitude-orbit coupled dynamic model that covers the complete post-capture dynamics, based on Lagrangian mechanics. Building on this, we design a Deep Reinforcement Learning (DRL) agent to fill the performance gap of traditional methods. Through a ”Dual-Branch Adaptive Regulation Mechanism”, the agent performs real-time parameter self-tuning and proactive residual compensation simultaneously. We train this agent using the Soft Actor-Critic (SAC) algorithm, enabling it to learn optimal control decisions under complex dynamic conditions. Numerical simulations demonstrate the framework’s significant effectiveness. Compared to traditional SMC, APR-RL-SMC reduces the main body’s attitude Integral Square Error (ISE) by 97.04%. Concurrently, it suppresses sporadic chattering, decreasing the tangential thrust control signal’s Total Variation (TV) by 21.91%. This research provides a high-performance intelligent solution for the post-capture stabilization control problem in OOS. Its dual-branch regulation mechanism effectively addresses the shortcomings of traditional controllers in parameter tuning and chattering suppression. As a key on-orbit enabling technology, this method holds significant value for advancing the level of orbital intelligence in complex space missions.",
+      "extra": null,
+      "citationKey": "yanIntelligentAttitudeOrbitCoupled2026",
+      "attachments": [],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4186,
+      "key": "4682EJRH",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 02:36:11",
+      "dateModified": "2026-04-23 07:17:34",
+      "title": "HVAC control with optimization-guided behavior cloning and restricted residual policy learning",
+      "year": "2026",
+      "date": "2026-00-00 2026",
+      "creators": [
+        "Shuhua Gao",
+        "Hailong Wen",
+        "Feng Wang",
+        "Kunmeng Yang",
+        "Cheng Xiang"
+      ],
+      "venue": "IEEE Transactions on Smart Grid",
+      "DOI": "10.1109/TSG.2026.3665037",
+      "url": "https://ieeexplore.ieee.org/abstract/document/11397099",
+      "abstractNote": "HVAC control can be formulated as an optimization problem balancing energy consumption and occupant comfort. Model-based approaches such as model predictive control (MPC) deliver strong performance when accurate thermal models are available but degrade under model mismatch and require costly system identification. Learning-based methods, notably reinforcement learning (RL), avoid explicit modeling yet often incurs unsafe exploration, poor initial performance, and slow convergence in practice. We propose Optimization-Guided Behavioral Cloning with Restricted Residual Policy Learning (OGBC+RRPL), a hybrid framework that unites model-based optimization and data-driven adaptation. OGBC first builds an optimization-based HVAC control expert by solving a linear program derived from an approximate autoregressive thermal model and trains an initial policy offline via behavioral cloning. RRPL then refines this policy online by learning a compensating lightweight residual policy with an actor-critic algorithm enhanced by action clipping and critic regularization to ensure stable and safe updates. This design preserves optimization knowledge, mitigates catastrophic forgetting, and constrains risky exploration during online adaptation. Experiments on CityLearn v2 demonstrate that OGBC+RRPL delivers high-quality control immediately upon deployment, attains comparable or better performance far faster than standard online RL algorithms, and outperforms offline RL methods on both energy consumption and temperature-violation metrics. The results indicate that infusing optimization guidance into residual online learning provides a practical, data-efficient, and safe approach for real-world HVAC control. Our implementation code can be found at https://github.com/HailongW0818/HVAC-OGBC-RRPL.",
+      "extra": "titleTranslation: HVAC控制：基于优化引导的行为克隆和受限残差策略学习",
+      "citationKey": "gaoHVACControlOptimizationguided2026",
+      "attachments": [],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4188,
+      "key": "HUSDDLVJ",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 02:38:12",
+      "dateModified": "2026-04-23 07:17:19",
+      "title": "Intelligent reinforcement learning and control for humanoid locomotion using self-triggered adaptive dynamic programming",
+      "year": "2026",
+      "date": "2026-00-00 2026",
+      "creators": [
+        "Xiaoyu Wu",
+        "Chao Cun",
+        "Lijun Liu",
+        "Haisheng Xia",
+        "Zhijun Li"
+      ],
+      "venue": "IEEE Transactions on Automation Science and Engineering",
+      "DOI": "10.1109/TASE.2026.3674273",
+      "url": "https://ieeexplore.ieee.org/abstract/document/11435151",
+      "abstractNote": "Humanoid robots are increasingly deployed in complex environments, where achieving stable and robust locomotion remains a major challenge due to model uncertainties, payload variations, and external disturbances. Model-based control approaches, such as whole-body control (WBC) combined with model predictive control (MPC), can generate dynamically feasible motion trajectories, but their performance strongly depends on the accuracy of the underlying robot model and may degrade under unmodeled dynamics. To address these limitations, this paper proposes a dual-layer locomotion control framework based on self-triggered adaptive dynamic programming (ADP). The upper layer employs an MPC–WBC pipeline to generate high-frequency nominal motion references using a nominal model, while the lower layer introduces a residual reinforcement learning (RL) controller that provides corrective torque inputs only when significant state deviations are detected. This residual structure enables adaptive compensation for modeling errors and external disturbances without interfering with the nominal controller. The ADP-based residual policy is learned online using a critic neural network, and a self-triggered mechanism is designed to reduce unnecessary learning updates and computational overhead. Rigorous theoretical analysis is provided to establish closed-loop stability of the proposed framework. Experimental results on a humanoid robot demonstrate that the proposed method significantly improves locomotion robustness under disturbances while maintaining stable walking and turning behaviors.Note to Practitioners—This paper is motivated by the practical demand for reliable and robust humanoid locomotion in real-world environments, where model uncertainties, payload variations, and external disturbances are unavoidable. While model-based control schemes such as MPC combined with WBC can generate feasible nominal motions, their performance often deteriorates when the system dynamics deviate from the nominal model. To address this issue, we present a dual-layer control framework that augments an MPC–WBC baseline with a self-triggered residual RL controller based on ADP. The MPC–WBC layer provides high-frequency, dynamically consistent reference motions, while the residual learning layer generates corrective torque commands only when significant state deviations are detected. This self-triggered design reduces unnecessary learning updates and computational burden while preserving stability. The proposed framework enables humanoid robots to maintain stable and safe locomotion under unexpected disturbances without redesigning the nominal controller, providing practitioners with a practical and modular approach to improving robustness in real-world applications.",
+      "extra": "titleTranslation: 智能型强化学习与控制用于类人机器人运动的自触发自适应动态规划",
+      "citationKey": "wuIntelligentReinforcementLearning2026",
+      "attachments": [
+        {
+          "itemID": 4190,
+          "key": "T7GECMEK",
+          "contentType": "text/html",
+          "path": "storage:11435151.html",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\T7GECMEK\\11435151.html",
+          "exists": true
+        }
+      ],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4189,
+      "key": "GCXDFRE4",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 02:38:15",
+      "dateModified": "2026-05-21 07:30:44",
+      "title": "Bridging evolutionary algorithms and reinforcement learning: a comprehensive survey on hybrid algorithms",
+      "year": "2025",
+      "date": "2025-10-00 2025-10",
+      "creators": [
+        "Pengyi Li",
+        "Jianye Hao",
+        "Hongyao Tang",
+        "Xian Fu",
+        "Yan Zheng",
+        "Ke Tang"
+      ],
+      "venue": "IEEE Transactions on Evolutionary Computation",
+      "DOI": "10.1109/TEVC.2024.3443913",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10637292",
+      "abstractNote": "Evolutionary reinforcement learning (ERL), which integrates the evolutionary algorithms (EAs) and reinforcement learning (RL) for optimization, has demonstrated remarkable performance advancements. By fusing both the approaches, ERL has emerged as a promising research direction. This survey offers a comprehensive overview of the diverse research branches in ERL. Specifically, we systematically summarize the recent advancements in related algorithms and identify three primary research directions: 1) EA-assisted optimization of RL; 2) RL-assisted optimization of EA; and 3) synergistic optimization of EA and RL. Following that, we conduct an in-depth analysis of each research direction, organizing multiple research branches. We elucidate the problems that each branch aims to tackle and how the integration of EAs and RL addresses these challenges. In conclusion, we discuss potential challenges and prospective future research directions across various research directions. To facilitate researchers in delving into ERL, we organize the algorithms and codes involved on https://github.com/yeshenpy/Awesome-Evolutionary-Reinforcement-Learning.",
+      "extra": "titleTranslation: 连接进化算法与强化学习：混合算法全面综述",
+      "citationKey": "liBridgingEvolutionaryAlgorithms2025",
+      "attachments": [
+        {
+          "itemID": 3714,
+          "key": "BXHCHRIX",
+          "contentType": "application/pdf",
+          "path": "storage:Li 等 - 2024 - Bridging evolutionary algorithms and reinforcement learning a comprehensive survey on hybrid algori.pdf",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\BXHCHRIX\\Li 等 - 2024 - Bridging evolutionary algorithms and reinforcement learning a comprehensive survey on hybrid algori.pdf",
+          "exists": true
+        }
+      ],
+      "pdfCount": 1
+    },
+    {
+      "itemID": 4193,
+      "key": "WRB7JZ7E",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 03:00:27",
+      "dateModified": "2026-04-23 07:18:11",
+      "title": "Task attention-based multimodal fusion and curriculum residual learning for context generalization in robotic assembly",
+      "year": "2024",
+      "date": "2024-03-00 03/2024",
+      "creators": [
+        "Chuang Wang",
+        "Ze Lin",
+        "Biao Liu",
+        "Chupeng Su",
+        "Gang Chen",
+        "Longhan Xie"
+      ],
+      "venue": "Applied Intelligence",
+      "DOI": "10.1007/s10489-024-05417-x",
+      "url": "https://link.springer.com/10.1007/s10489-024-05417-x",
+      "abstractNote": "In the domain of ﬂexible manufacturing, Deep Reinforcement Learning (DRL) has emerged as a pivotal technology for robotic assembly tasks. Despite advancements in sample efﬁciency and interaction safety through residual reinforcement learning with initial policies, challenges persist in achieving context generalization amidst stochastic systems characterized by large random errors and variable backgrounds. Addressing these challenges, this study introduces a novel framework that integrates task attention-based multimodal fusion with an adaptive error curriculum within a residual reinforcement learning paradigm. Our approach commences with the formulation of a task attention-based multimodal policy that synergizes task-centric visual, relative pose, and tactile data into a compact, end-to-end model. This model is explicitly designed to enhance context generalization by improving observability, thereby ensuring robustness against stochastic errors and variable backgrounds. The second facet of our framework, curriculum residual learning, introduces an adaptive error curriculum that intelligently modulates the guidance and constraints of a model-based feedback controller. This progression from perfect to signiﬁcantly imperfect initial policies incrementally enhances policy robustness and learning process stability. Empirical validation demonstrates the capability of our method to efﬁciently acquire a high-precision policy for assembly tasks with clearances as tight as 0.1 mm and error margins up to 20 mm within a 3.5-hour training window-a feat challenging for existing RL-based methods. The results indicate a substantial reduction in average completion time by 75% and a 34% increase in success rate over the classical two-step approach. An ablation study was conducted to assess the contribution of each component within our framework. Real-world task experiments further corroborate the robustness and generalization of our method, achieving over a 90% success rate in variable contexts.",
+      "extra": "titleTranslation: 基于任务注意力的多模态融合与课程残差学习，以实现机器人装配中的上下文泛化",
+      "citationKey": "wangTaskAttentionbasedMultimodal2024",
+      "attachments": [
+        {
+          "itemID": 4192,
+          "key": "JZTRFEBC",
+          "contentType": "application/pdf",
+          "path": "storage:Wang 等 - 2024 - Task attention-based multimodal fusion and curriculum residual learning for context generalization i.pdf",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\JZTRFEBC\\Wang 等 - 2024 - Task attention-based multimodal fusion and curriculum residual learning for context generalization i.pdf",
+          "exists": true
+        }
+      ],
+      "pdfCount": 1
+    },
+    {
+      "itemID": 4197,
+      "key": "ZS6B7TT9",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 03:01:09",
+      "dateModified": "2026-04-23 07:18:09",
+      "title": "Extended residual learning with one-shot imitation learning for robotic assembly in semi-structured environment",
+      "year": "2024",
+      "date": "2024-04-29 2024-4-29",
+      "creators": [
+        "Chuang Wang",
+        "Chupeng Su",
+        "Baozheng Sun",
+        "Gang Chen",
+        "Longhan Xie"
+      ],
+      "venue": "Frontiers in Neurorobotics",
+      "DOI": "10.3389/fnbot.2024.1355170",
+      "url": "https://www.frontiersin.org/articles/10.3389/fnbot.2024.1355170/full",
+      "abstractNote": "Introduction\n              Robotic assembly tasks require precise manipulation and coordination, often necessitating advanced learning techniques to achieve efficient and effective performance. While residual reinforcement learning with a base policy has shown promise in this domain, existing base policy approaches often rely on hand-designed full-state features and policies or extensive demonstrations, limiting their applicability in semi-structured environments.\n            \n            \n              Methods\n              In this study, we propose an innovative Object-Embodiment-Centric Imitation and Residual Reinforcement Learning (OEC-IRRL) approach that leverages an object-embodiment-centric (OEC) task representation to integrate vision models with imitation and residual learning. By utilizing a single demonstration and minimizing interactions with the environment, our method aims to enhance learning efficiency and effectiveness. The proposed method involves three key steps: creating an object-embodiment-centric task representation, employing imitation learning for a base policy using via-point movement primitives for generalization to different settings, and utilizing residual RL for uncertainty-aware policy refinement during the assembly phase.\n            \n            \n              Results\n              Through a series of comprehensive experiments, we investigate the impact of the OEC task representation on base and residual policy learning and demonstrate the effectiveness of the method in semi-structured environments. Our results indicate that the approach, requiring only a single demonstration and less than 1.2 h of interaction, improves success rates by 46% and reduces assembly time by 25%.\n            \n            \n              Discussion\n              This research presents a promising avenue for robotic assembly tasks, providing a viable solution without the need for specialized expertise or custom fixtures.",
+      "extra": "titleTranslation: 基于单次模仿学习在半结构化环境中的机器人装配的扩展残差学习",
+      "citationKey": "wangExtendedResidualLearning2024",
+      "attachments": [
+        {
+          "itemID": 4196,
+          "key": "8L7G92D6",
+          "contentType": "application/pdf",
+          "path": "storage:Wang 等 - 2024 - Extended residual learning with one-shot imitation learning for robotic assembly in semi-structured.pdf",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\8L7G92D6\\Wang 等 - 2024 - Extended residual learning with one-shot imitation learning for robotic assembly in semi-structured.pdf",
+          "exists": true
+        }
+      ],
+      "pdfCount": 1
+    },
+    {
+      "itemID": 4198,
+      "key": "YK42E8FL",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 03:02:13",
+      "dateModified": "2026-04-23 07:17:32",
+      "title": "Adversarial-training-based robust reinforcement learning control for autonomous vehicle trajectory tracking",
+      "year": "2026",
+      "date": "2026-00-00 2026",
+      "creators": [
+        "Donghyun Lee",
+        "Taeyoung Oh",
+        "Jinkyeom Kim",
+        "Jinwoo Yoo"
+      ],
+      "venue": "IEEE Access",
+      "DOI": "10.1109/ACCESS.2026.3675864",
+      "url": "https://ieeexplore.ieee.org/abstract/document/11447271",
+      "abstractNote": "Autonomous vehicles must maintain stable and accurate trajectory and speed tracking even in scenarios involving unpredictable disturbances and changing environmental conditions. Reinforcement learning (RL)–based controllers that directly output control inputs often exhibit performance degradation or instability when encountering out-of-distribution scenarios or disturbances. Model-based controllers are sensitive to model mismatch and parameter variations. Notably, even residual RL approaches offer limited robustness if disturbances are insufficiently represented during training. To address these challenges, this paper proposes an integrated tracking control architecture in which a linear quadratic regulator (LQR) serves as the nominal controller, while an RL policy provides residual compensation for steering and longitudinal (acceleration/deceleration) commands. To improve controller robustness, the training process is formulated as a min–max adversarial learning problem: The adversary learns a disturbance-injection policy while the controller minimizes tracking errors and ride-comfort penalties. Evaluation of the proposed method across a range of driving scenarios in the CARLA simulation environment demonstrates that it reduces trajectory errors and constraint violations compared with pure LQR, model predictive control, and an existing RL-based PID controller, both in the presence and absence of disturbances. These results demonstrate the improved tracking stability and robustness of the proposed controller.",
+      "extra": "titleTranslation: 基于对抗训练的鲁棒强化学习控制用于自动驾驶轨迹跟踪",
+      "citationKey": "leeAdversarialtrainingbasedRobustReinforcement2026",
+      "attachments": [
+        {
+          "itemID": 4199,
+          "key": "Z8F5VKH9",
+          "contentType": "application/pdf",
+          "path": "storage:Lee 等 - 2026 - Adversarial-training-based robust reinforcement learning control for autonomous vehicle trajectory t.pdf",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\Z8F5VKH9\\Lee 等 - 2026 - Adversarial-training-based robust reinforcement learning control for autonomous vehicle trajectory t.pdf",
+          "exists": true
+        }
+      ],
+      "pdfCount": 1
+    },
+    {
+      "itemID": 4200,
+      "key": "TLA4VRSK",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 03:11:59",
+      "dateModified": "2026-04-23 07:18:03",
+      "title": "ADP: adaptive diffusion policy energizes robots thinking in both learning and practice",
+      "year": "2025",
+      "date": "2025-00-00 2025",
+      "creators": [
+        "Dechao Chen",
+        "Zhengwen Chen",
+        "Xiangyan Zheng",
+        "Weiling Xu",
+        "Chencong Ma",
+        "Chentao Mao"
+      ],
+      "venue": "IEEE Transactions on Automation Science and Engineering",
+      "DOI": "10.1109/TASE.2025.3612396",
+      "url": "https://ieeexplore.ieee.org/abstract/document/11174996",
+      "abstractNote": "Adaptive control policies for robots often require balancing generalization from large offline datasets with efficient adaptation to specific deployment conditions. In this paper, we propose Adaptive Diffusion Policy (ADP), a two-stage framework that integrates temporal-aware diffusion models with parameter-efficient LoRA adaptation. First, in the learning stage, ADP imitates and generates actions based on image and video signals from a meager amount of expert demonstrations, considering both spatial and temporal information. This component contrasts with most existing works, which focus solely on spatial information. Second, in the practice stage, ADP incorporates a low-rank adaptation module into the policy, subsequently training it using residual reinforcement learning with minimal environment interaction. Experiments conducted on Meta-World benchmark demonstrate the efficiency of each ADP component and the superiority of ADP over representative baseline methods. Note to Practitioners—This work introduces Adaptive Diffusion Policy (ADP), a two-stage visuomotor framework that first learns from just a few image-and-video demonstrations by modeling both spatial and temporal cues, then rapidly refines its behavior via a lightweight low-rank adapter and residual reinforcement learning. The ADP enables swift skill acquisition on new tasks with minimal expert data and limited environment trials, making it ideal for industrial or household robots where extensive data collection is impractical. To apply ADP, collect a small set of demonstration clips, train the diffusion-based policy offline, and deploy the adapter online for in situ fine-tuning. The proposed Meta-World results show the ADP’s consistent gains over standard imitation and residual RL baselines, which is very easy for practitioners in multiple real-world robot scenarios.",
+      "extra": "titleTranslation: ADP：自适应扩散策略激发机器人在学习和实践中的思考",
+      "citationKey": "chenADPAdaptiveDiffusion2025",
+      "attachments": [
+        {
+          "itemID": 4201,
+          "key": "AQ9CCZEY",
+          "contentType": "text/html",
+          "path": "storage:11174996.html",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\AQ9CCZEY\\11174996.html",
+          "exists": true
+        }
+      ],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4202,
+      "key": "IA9H5UW5",
+      "itemType": "conferencePaper",
+      "dateAdded": "2026-04-16 03:12:12",
+      "dateModified": "2026-04-23 07:18:37",
+      "title": "Lyapunov constrained safe reinforcement learning for multicopter visual servoing",
+      "year": "2023",
+      "date": "2023-10-00 2023-10",
+      "creators": [
+        "Dafang Yu",
+        "Mengxin Xu",
+        "Zhe Liu",
+        "Hesheng Wang"
+      ],
+      "venue": "2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+      "DOI": "10.1109/IROS55552.2023.10341561",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10341561",
+      "abstractNote": "Traditional methods based on Lyapunov analysis and learning-based approaches such as reinforcement learning (RL) are two powerful tools in visual servo tasks. Traditional methods are interpretable and their stability can be guar-anteed by Lyapunov analysis. However, they tend to have a high dependency on an accurate system dynamic model. RL approaches learn to act based on past experiences and thus have higher adaptability on disturbances and errors. However, the training process is long and its safety or stability is generally hard to guarantee, making real-world training risky. In this paper, we propose a residual RL framework for training a multicopter to finish visual servo tasks under disturbances, guided by the system safety in terms of system Lyapunov function. Such an approach compensates for the lack of disturbance-rejection ability of the traditional method, and optimizes stability explicitly so the RL agent makes safer actions both during the training and in the final policy. A comparison between our approach and the baselines is provided in simulation, and real-world experiments on a multicopter are also carried out to show our effectiveness. We believe that this work moves one step toward achieving RL applications on real-world robotic systems.",
+      "extra": "ISSN: 2153-0866\ntitleTranslation: 拉普拉斯约束下的多旋翼视觉伺服强化学习安全控制",
+      "citationKey": "yuLyapunovConstrainedSafe2023",
+      "attachments": [
+        {
+          "itemID": 4203,
+          "key": "CY6EY52J",
+          "contentType": "text/html",
+          "path": "storage:10341561.html",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\CY6EY52J\\10341561.html",
+          "exists": true
+        }
+      ],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4204,
+      "key": "BI3KH8Z3",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 03:16:08",
+      "dateModified": "2026-04-23 07:17:45",
+      "title": "Precise and dexterous robotic manipulation via human-in-the-loop reinforcement learning",
+      "year": "2025",
+      "date": "2025-08-20 2025-08-20",
+      "creators": [
+        "Jianlan Luo",
+        "Charles Xu",
+        "Jeffrey Wu",
+        "Sergey Levine"
+      ],
+      "venue": "Science Robotics",
+      "DOI": "10.1126/scirobotics.ads5033",
+      "url": "https://www.science.org/doi/abs/10.1126/scirobotics.ads5033",
+      "abstractNote": "Robotic manipulation remains one of the most difficult challenges in robotics, with approaches ranging from classical model-based control to modern imitation learning. Although these methods have enabled substantial progress, they often require extensive manual design, struggle with performance, and demand large-scale data collection. These limitations hinder their real-world deployment at scale, where reliability, speed, and robustness are essential. Reinforcement learning (RL) offers a powerful alternative by enabling robots to autonomously acquire complex manipulation skills through interaction. However, realizing the full potential of RL in the real world remains challenging because of issues of sample efficiency and safety. We present a human-in-the-loop, vision-based RL system that achieved strong performance on a wide range of dexterous manipulation tasks, including precise assembly, dynamic manipulation, and dual-arm coordination. These tasks reflect realistic industrial tolerances, with small but critical variations in initial object placements that demand sophisticated reactive control. Our method integrates demonstrations, human corrections, sample-efficient RL algorithms, and system-level design to directly learn RL policies in the real world. Within 1 to 2.5 hours of real-world training, our approach outperformed other baselines by improving task success by 2×, achieving near-perfect success rates, and executing 1.8× faster on average. Through extensive experiments and analysis, our results suggest that RL can learn a wide range of complex vision-based manipulation policies directly in the real world within practical training times. We hope that this work will inspire a new generation of learned robotic manipulation techniques, benefiting both industrial applications and research advancements.",
+      "extra": "titleTranslation: 精确且灵巧的机器人操作通过人机交互式强化学习",
+      "citationKey": "luoPreciseDexterousRobotic2025",
+      "attachments": [],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4208,
+      "key": "QJQN8GZG",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 03:16:30",
+      "dateModified": "2026-04-23 07:18:19",
+      "title": "Integrating supervised and reinforcement learning for predictive control with an unmodulated pyramid wavefront sensor for adaptive optics",
+      "year": "2024",
+      "date": "2024-10-07 2024-10-07",
+      "creators": [
+        "Bartomeu Pou",
+        "Jeffrey Smith",
+        "Eduardo Quinones",
+        "Mario Martin",
+        "Damien Gratadour"
+      ],
+      "venue": "Optics Express",
+      "DOI": "10.1364/OE.530254",
+      "url": "https://opg.optica.org/abstract.cfm?URI=oe-32-21-37011",
+      "abstractNote": "We propose a novel control approach that combines offline supervised learning to address the challenges posed by non-linear phase reconstruction using unmodulated pyramid wavefront sensors (P-WFS) and online reinforcement learning for predictive control. The control approach uses a high-order P-WFS to drive a tip-tilt stage and a high-dimensional mirror concurrently. Simulation results demonstrate that our method outperforms traditional control techniques, showing significant improvements in performance under challenging conditions such as faint stars and poor seeing, and exhibits robustness against variations in atmospheric conditions.",
+      "extra": "titleTranslation: 集成监督学习和强化学习以实现自适应光学中非调制金字塔波前传感器的预测控制",
+      "citationKey": "pouIntegratingSupervisedReinforcement2024a",
+      "attachments": [
+        {
+          "itemID": 4207,
+          "key": "GC47E5S7",
+          "contentType": "application/pdf",
+          "path": "storage:Pou 等 - 2024 - Integrating supervised and reinforcement learning for predictive control with an unmodulated pyramid.pdf",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\GC47E5S7\\Pou 等 - 2024 - Integrating supervised and reinforcement learning for predictive control with an unmodulated pyramid.pdf",
+          "exists": true
+        }
+      ],
+      "pdfCount": 1
+    },
+    {
+      "itemID": 4209,
+      "key": "JNLN86MW",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 03:20:12",
+      "dateModified": "2026-04-23 07:18:13",
+      "title": "Digital-twin-assisted skill learning for 3C assembly tasks",
+      "year": "2024",
+      "date": "2024-07-00 2024-07",
+      "creators": [
+        "Fuchun Sun",
+        "Naijun Liu",
+        "Xinzhou Wang",
+        "Ruize Sun",
+        "Shengyi Miao",
+        "Zengxin Kang",
+        "Bin Fang",
+        "Huaping Liu",
+        "Yongjia Zhao",
+        "Haiming Huang"
+      ],
+      "venue": "IEEE Transactions on Cybernetics",
+      "DOI": "10.1109/TCYB.2024.3368148",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10492985",
+      "abstractNote": "The utilization of robots in computer, communication, and consumer electronics (3C) assembly has the potential to significantly reduce labor costs and enhance assembly efficiency. However, many typical scenarios in 3C assembly, such as the assembly of flexible printed circuits (FPCs), involve complex manipulations with long-horizon steps and high-precision requirements that cannot be effectively accomplished through manual programming or conventional skill-learning methods. To address this challenge, this article proposes a learning-based framework for the acquisition of complex 3C assembly skills assisted by a multimodal digital-twin environment. First, we construct a fully equivalent digital-twin environment based on the real-world counterpart, equipped with visual, tactile force, and proprioception information, and then collect multimodal demonstration data using virtual reality (VR) devices. Next, we construct a skill knowledge base through multimodal skill parsing of demonstration data, resulting in primitive policy sequences for achieving 3C assembly tasks. Finally, we train primitive policies via a combination of curriculum learning, residual reinforcement learning, and domain randomization methods and transfer the learned skill from the digital-twin environment to the real-world environment. The experiments are conducted to verify the effectiveness of our proposed method.",
+      "extra": "titleTranslation: 数字化孪生辅助的3C组装任务技能学习",
+      "citationKey": "sunDigitaltwinassistedSkillLearning2024",
+      "attachments": [
+        {
+          "itemID": 4210,
+          "key": "VA2VCA9D",
+          "contentType": "text/html",
+          "path": "storage:10492985.html",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\VA2VCA9D\\10492985.html",
+          "exists": true
+        }
+      ],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4211,
+      "key": "ZWN5I9FG",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 03:20:59",
+      "dateModified": "2026-04-23 07:17:49",
+      "title": "Robotic motion planning based on deep reinforcement learning and artificial neural networks",
+      "year": "2025",
+      "date": "2025-00-00 2025",
+      "creators": [
+        "Huashan Liu",
+        "Xiangjian Li",
+        "Menghua Dong",
+        "Yuqing Gu",
+        "Bo Shen"
+      ],
+      "venue": "IEEE Transactions on Automation Science and Engineering",
+      "DOI": "10.1109/TASE.2024.3486064",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10744212",
+      "abstractNote": "Although robotic trajectory generation problem has been extensively investigated, existing solutions are almost customized to specific robot geometry, and generalized schemes are yet to be explored. In this article, a general motion planning framework based on deep reinforcement learning (DRL) and artificial neural networks (ANNs) is proposed for robot with arbitrary geometry. First, a unique screening and grafting mechanism is established to improve the policy learning by exploiting valuable experience sufficiently. Second, based on the reward-oriented characteristics of DRL, a forward progression mechanism is proposed to facilitate the path planning for complicated tasks. Third, a structure consisting of an adventurer and conservator algorithm with automatic optimization and an ANN-based mapper is designed integrally to derive the inverse kinematics solutions without considering the robot geometry. Finally, experimental results have verified the superior performance of the proposed approach.Note to Practitioners—This article is aiming to provide a general method to solve the problem of motion planning for robots via deep reinforcement learning (DRL) and artificial neural networks (ANNs). Compared to the existing approaches, which are highly specialized and limited to robots with specific geometries, and often cumbersome, our method can be easily applied to robots with arbitrary geometries and has good generalization, where to simplify the training based on DRL for diverse practical motion planning tasks, a universal forward progression mechanism is used to partition a complex task into multiple successive simple phases. Furthermore, an ANN-based mapper can cope with the burdensome inverse kinematics of robots with both common and uncommon geometries, especially the ones with redundant degrees of freedom. The proposed method is also validated to be superior to other state-of-the-art methods in real-world experimental studies.",
+      "extra": "titleTranslation: 机器人基于深度强化学习和人工神经网络的运动规划",
+      "citationKey": "liuRoboticMotionPlanning2025",
+      "attachments": [
+        {
+          "itemID": 4214,
+          "key": "B42RWR27",
+          "contentType": "text/html",
+          "path": "storage:10744212.html",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\B42RWR27\\10744212.html",
+          "exists": true
+        }
+      ],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4212,
+      "key": "HWGIKKZX",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 03:21:00",
+      "dateModified": "2026-04-23 07:17:24",
+      "title": "Optimized residual action for interaction control with learned environments",
+      "year": "2026",
+      "date": "2026-03-00 2026-03",
+      "creators": [
+        "Vincenzo Petrone",
+        "Luca Puricelli",
+        "Alessandro Pozzi",
+        "Enrico Ferrentino",
+        "Pasquale Chiacchio",
+        "Francesco Braghin",
+        "Loris Roveda"
+      ],
+      "venue": "IEEE Transactions on Control Systems Technology",
+      "DOI": "10.1109/TCST.2025.3635172",
+      "url": "https://ieeexplore.ieee.org/abstract/document/11270911",
+      "abstractNote": "In industrial settings, robotic tasks often require interaction with various objects, necessitating compliant manipulation to prevent damage while accurately tracking reference forces. Interaction controllers are typically employed for this purpose, but they need either human tinkering for parameter tuning or precise environmental modeling. Both these aspects can be problematic, as the former is a time-consuming procedure, and the latter is unavoidably affected by approximations, hence being prone to failure during the actual application. In order to address these challenges, the current research focuses on designing high-performance force controllers. Along this line, this work introduces optimized residual action for interaction control with learned environments (ORACLE), a novel force control approach. Exploiting neural networks, ORACLE predicts robot–environment interaction forces, which are then used in an optimal residual action controller to locally correct actions from a base force controller, minimizing the force-tracking error. Tested on a real Franka Emika Panda robot, ORACLE demonstrates superior force-tracking performance compared with the state-of-the-art controllers, with a short setup time.",
+      "extra": "titleTranslation: 优化残差动作以实现与学习环境的交互控制",
+      "citationKey": "petroneOptimizedResidualAction2026",
+      "attachments": [
+        {
+          "itemID": 4213,
+          "key": "VRB6ZJMS",
+          "contentType": "text/html",
+          "path": "storage:11270911.html",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\VRB6ZJMS\\11270911.html",
+          "exists": true
+        }
+      ],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4215,
+      "key": "RH2YK9CM",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 03:22:17",
+      "dateModified": "2026-04-23 07:18:55",
+      "title": "Robot learning of mobile manipulation with reachability behavior priors",
+      "year": "2022",
+      "date": "2022-07-00 2022-07",
+      "creators": [
+        "Snehal Jauhri",
+        "Jan Peters",
+        "Georgia Chalvatzaki"
+      ],
+      "venue": "IEEE Robotics and Automation Letters",
+      "DOI": "10.1109/LRA.2022.3188109",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9813580",
+      "abstractNote": "Mobile Manipulation (MM) systems are ideal candidates for taking up the role of personal assistants in unstructured real-world environments. Among other challenges, Mobile Manipulation (MM) requires effective coordination of the robot’s embodiments for executing tasks that require both mobility and manipulation. Reinforcement Learning (RL) holds the promise of endowing robots with adaptive behaviors, but most methods require prohibitively large amounts of data for learning a useful control policy. In this work, we study the integration of robotic reachability priors in actor-critic RL methods for accelerating the learning of MM for reaching and fetching tasks. Namely, we consider the problem of optimal base placement and the subsequent decision of whether to activate the arm for reaching a 6D target. For this, we devise a novel Hybrid RL (HyRL) method that handles discrete and continuous actions jointly, resorting to the Gumbel-Softmax reparameterization. Next, we train a reachability prior using data from the operational robot workspace, inspired by classical methods. Subsequently, we derive Boosted HyRL (BHyRL), a novel actor-critic algorithm that benefits from modeling Q-functions as a sum of residual approximators. Every time a new task needs to be learned, we can transfer our learned residuals and learn the component of the Q-function that is task-specific, hence, maintaining the task structure from prior behaviors. Moreover, we find that regularizing the target policy with a prior policy yields more expressive behaviors. We evaluate our method in simulation in reaching and fetching tasks of increasing difficulty, and we show the superior performance of BHyRL against baseline methods. Finally, we zero-transfer our learned 6D fetching policy with BHyRL to our MM robot: TIAGo++.",
+      "extra": "titleTranslation: 机器人学习带有可达性行为先验的移动操作",
+      "citationKey": "jauhriRobotLearningMobile2022",
+      "attachments": [
+        {
+          "itemID": 4216,
+          "key": "KENPMZYM",
+          "contentType": "application/pdf",
+          "path": "storage:Jauhri 等 - 2022 - Robot learning of mobile manipulation with reachability behavior priors.pdf",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\KENPMZYM\\Jauhri 等 - 2022 - Robot learning of mobile manipulation with reachability behavior priors.pdf",
+          "exists": true
+        },
+        {
+          "itemID": 4218,
+          "key": "QF8XI7K5",
+          "contentType": "text/html",
+          "path": "storage:9813580.html",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\QF8XI7K5\\9813580.html",
+          "exists": true
+        }
+      ],
+      "pdfCount": 1
+    },
+    {
+      "itemID": 4221,
+      "key": "L55TN269",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 03:23:51",
+      "dateModified": "2026-04-23 07:18:42",
+      "title": "Bayesian controller fusion: Leveraging control priors in deep reinforcement learning for robotics",
+      "year": "2023",
+      "date": "2023-03-00 03/2023",
+      "creators": [
+        "Krishan Rana",
+        "Vibhavari Dasagi",
+        "Jesse Haviland",
+        "Ben Talbot",
+        "Michael Milford",
+        "Niko Sünderhauf"
+      ],
+      "venue": "International Journal of Robotics Research",
+      "DOI": "10.1177/02783649231167210",
+      "url": "https://journals.sagepub.com/doi/10.1177/02783649231167210",
+      "abstractNote": "We present Bayesian Controller Fusion (BCF): a hybrid control strategy that combines the strengths of traditional handcrafted controllers and model-free deep reinforcement learning (RL). BCF thrives in the robotics domain, where reliable but suboptimal control priors exist for many tasks, but RL from scratch remains unsafe and data-inefﬁcient. By fusing uncertainty-aware distributional outputs from each system, BCF arbitrates control between them, exploiting their respective strengths. We study BCF on two real-world robotics tasks involving navigation in a vast and long-horizon environment, and a complex reaching task that involves manipulability maximisation. For both these domains, simple handcrafted controllers exist that can solve the task at hand in a risk-averse manner but do not necessarily exhibit the optimal solution given limitations in analytical modelling, controller miscalibration and task variation. As exploration is naturally guided by the prior in the early stages of training, BCF accelerates learning, while substantially improving beyond the performance of the control prior, as the policy gains more experience. More importantly, given the risk-aversity of the control prior, BCF ensures safe exploration and deployment, where the control prior naturally dominates the action distribution in states unknown to the policy. We additionally show BCF’s applicability to the zero-shot sim-to-real setting and its ability to deal with out-of-distribution states in the real world. BCF is a promising approach towards combining the complementary strengths of deep RL and traditional robotic control, surpassing what either can achieve independently. The code and supplementary video material are made publicly available at https://krishanrana.github.io/bcf.",
+      "extra": "titleTranslation: 贝叶斯控制器融合：在机器人深度强化学习中利用控制先验",
+      "citationKey": "ranaBayesianControllerFusion2023",
+      "attachments": [
+        {
+          "itemID": 4220,
+          "key": "DVZXYRHX",
+          "contentType": "application/pdf",
+          "path": "storage:Rana 等 - 2023 - Bayesian controller fusion Leveraging control priors in deep reinforcement learning for robotics.pdf",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\DVZXYRHX\\Rana 等 - 2023 - Bayesian controller fusion Leveraging control priors in deep reinforcement learning for robotics.pdf",
+          "exists": true
+        }
+      ],
+      "pdfCount": 1
+    },
+    {
+      "itemID": 4222,
+      "key": "TKUESI9K",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 03:25:20",
+      "dateModified": "2026-04-23 07:17:30",
+      "title": "Reinforced refinement with self-aware expansion for end-to-end autonomous driving",
+      "year": "2026",
+      "date": "2026-05-00 2026-05",
+      "creators": [
+        "Haochen Liu",
+        "Tianyu Li",
+        "Haohan Yang",
+        "Li Chen",
+        "Caojun Wang",
+        "Ke Guo",
+        "Haochen Tian",
+        "Hongchen Li",
+        "Hongyang Li",
+        "Chen Lv"
+      ],
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "DOI": "10.1109/TPAMI.2026.3653866",
+      "url": "https://ieeexplore.ieee.org/abstract/document/11353028",
+      "abstractNote": "End-to-end autonomous driving has emerged as a promising paradigm for directly mapping sensor inputs to planning maneuvers using learning-based modular integrations. However, existing imitation learning (IL)-based models suffer from generalization to hard cases, and a lack of corrective feedback loop under post-deployment. While reinforcement learning (RL) offers a potential solution to tackle hard cases with optimality, it is often hindered by overfitting to specific driving cases, resulting in catastrophic forgetting of generalizable knowledge and sample inefficiency. To overcome these challenges, we propose Reinforced Refinement with Self-aware Expansion (R2SE), a novel learning pipeline that constantly refines hard domain while keeping generalizable driving policy for model-agnostic end-to-end driving systems. Through reinforcement fine-tuning and policy expansion that facilitates continuous improvement, R2SE features three key components: 1) Generalist Pretraining with hard-case allocation trains a generalist imitation learning (IL) driving system while dynamically identifying failure-prone cases for targeted refinement; 2) Residual Reinforced Specialist Fine-tuning optimizes residual corrections using reinforcement learning (RL) to improve performance in hard case domain while preserving global driving knowledge; 3) Self-aware Adapter Expansion dynamically integrates specialist policies back into the generalist model, enhancing continuous performance improvement. Experimental results in closed-loop simulation and real-world datasets demonstrate improvements in generalization, safety, and long-horizon policy robustness over state-of-the-art E2E systems, highlighting the effectiveness of reinforce refinement for scalable autonomous driving.",
+      "extra": "titleTranslation: 增强型精炼与自我感知扩展实现端到端自动驾驶",
+      "citationKey": "liuReinforcedRefinementSelfaware2026",
+      "attachments": [
+        {
+          "itemID": 4259,
+          "key": "EWMDSFGD",
+          "contentType": "application/pdf",
+          "path": "storage:Liu 等 - 2026 - Reinforced refinement with self-aware expansion for end-to-end autonomous driving.pdf",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\EWMDSFGD\\Liu 等 - 2026 - Reinforced refinement with self-aware expansion for end-to-end autonomous driving.pdf",
+          "exists": true
+        }
+      ],
+      "pdfCount": 1
+    },
+    {
+      "itemID": 4224,
+      "key": "XG6NF3JU",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-16 03:26:13",
+      "dateModified": "2026-04-16 03:26:15",
+      "title": "Informed anytime Bi-directional Fast Marching Tree for optimal motion planning in complex cluttered environments随时可用的双向快速行进树算法，可在复杂杂乱的环境中实现最佳运动规划",
+      "year": "2023",
+      "date": "2023-04-01 2023-04-01",
+      "creators": [
+        "Kuan Wang",
+        "Jing Xu",
+        "Kechen Song",
+        "Yunhui Yan",
+        "Yihang Peng"
+      ],
+      "venue": "Expert Systems with Applications",
+      "DOI": "10.1016/j.eswa.2022.119263",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0957417422022813",
+      "abstractNote": "Practical applications favor anytime asymptotically-optimal algorithms that find a feasible solution and improve it toward the optimal solution within limited time. This paper proposed Informed Anytime Bi-directional Fast Marching Tree (IABFMT*), an anytime asymptotically-optimal sampling-based algorithm that combines the strength of BFMT* (bi-directional variant of FMT*) and IAFMT* (an anytime variant of FMT*). IABFMT* performs a bi-directional “lazy” search to efficiently find a feasible solution and quickly improve it towards optimal. In addition, we implemented a graph pruning method to simplify the planning problem and heuristic cost evaluation to reject samples, which avoided a lot of unnecessary computations and improved the convergence rate. Different simulations in OMPL have been carried out to demonstrate the superior efficiency of IABFMT* in comparison with other state-of-the-art algorithms in complex cluttered environments.",
+      "extra": null,
+      "citationKey": "wangInformedAnytimeBidirectional2023",
+      "attachments": [],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4225,
+      "key": "VXBGGQ5Y",
+      "itemType": "conferencePaper",
+      "dateAdded": "2026-04-18 09:29:02",
+      "dateModified": "2026-04-23 07:18:58",
+      "title": "Residual reinforcement learning for robot control",
+      "year": "2019",
+      "date": "2019-00-00 2019",
+      "creators": [
+        "Tobias Johannink",
+        "Shikhar Bahl",
+        "Ashvin Nair",
+        "Jianlan Luo",
+        "Avinash Kumar",
+        "Matthias Loskyll",
+        "Juan Aparicio Ojea",
+        "Eugen Solowjow",
+        "Sergey Levine"
+      ],
+      "venue": "2019 international conference on robotics and automation (ICRA)",
+      "DOI": "10.1109/ICRA.2019.8794127",
+      "url": "https://ieeexplore.ieee.org/abstract/document/8794127/",
+      "abstractNote": null,
+      "extra": "titleTranslation: 残差强化学习在机器人控制中的应用",
+      "citationKey": "johanninkResidualReinforcementLearning2019",
+      "attachments": [
+        {
+          "itemID": 4226,
+          "key": "3V6LXQCD",
+          "contentType": "application/pdf",
+          "path": "storage:Johannink 等 - 2019 - Residual reinforcement learning for robot control.pdf",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\3V6LXQCD\\Johannink 等 - 2019 - Residual reinforcement learning for robot control.pdf",
+          "exists": true
+        }
+      ],
+      "pdfCount": 1
+    },
+    {
+      "itemID": 4008,
+      "key": "68EZL4V9",
+      "itemType": "conferencePaper",
+      "dateAdded": "2026-03-24 14:52:35",
+      "dateModified": "2026-03-25 02:32:03",
+      "title": "Fault-tolerant control of quadrotor unmanned helicopters based on the reinforcement learning-aided PID controller",
+      "year": "2025",
+      "date": "2025-10-24 2025-10-24",
+      "creators": [
+        "Juanjuan Chen",
+        "Yiran Ren",
+        "Li Guo",
+        "Runzi Li",
+        "Bin Jiang",
+        "Hongtian Chen"
+      ],
+      "venue": "2025 8th International Conference on Robotics, Control and Automation Engineering (RCAE)",
+      "DOI": "10.1109/RCAE66389.2025.11355228",
+      "url": "https://ieeexplore.ieee.org/document/11355228/",
+      "abstractNote": "This article presents a fault-tolerant control framework for quadrotor UAVs combining Soft Actor-Critic (SAC) reinforcement learning with a PID controller. The SAC algorithm adapts to real-time fault conditions by compensating for actuator and sensor faults, while the PID controller provides baseline performance. This hybrid approach reduces reliance on precise modeling and manual tuning. The controller dynamically adjusts control inputs during faults to maintain flight stability. To validate the proposed method, comprehensive simulation studies are conducted under various fault scenarios to demonstrate its effectiveness. Furthermore, the closed-loop system is deployed in a hardware-in-the-loop simulation environment to assess its real-time performance on embedded platforms. The results indicate that the proposed SAC-PID hybrid controller significantly improves the system’s robustness and fault-tolerant capability, enabling stable flight performance even in the presence of severe actuator or sensor faults.",
+      "extra": "titleTranslation: 基于强化学习辅助PID控制器的四旋翼无人机直升机容错控制",
+      "citationKey": "chenFaulttolerantControlQuadrotor2025",
+      "attachments": [
+        {
+          "itemID": 4007,
+          "key": "P2GZ7U4Y",
+          "contentType": "application/pdf",
+          "path": "storage:Chen 等 - 2025 - Fault-tolerant control of quadrotor unmanned helicopters based on the reinforcement learning-aided P.pdf",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\P2GZ7U4Y\\Chen 等 - 2025 - Fault-tolerant control of quadrotor unmanned helicopters based on the reinforcement learning-aided P.pdf",
+          "exists": true
+        }
+      ],
+      "pdfCount": 1
+    },
+    {
+      "itemID": 4241,
+      "key": "EMQ3SSJL",
+      "itemType": "thesis",
+      "dateAdded": "2026-04-23 15:21:07",
+      "dateModified": "2026-04-23 15:21:08",
+      "title": "Bringing reinforcement learning to real-world mechatronic systems: a hybrid learning control approach",
+      "year": "2023",
+      "date": "2023-00-00 2023",
+      "creators": [
+        "Tom Staessens"
+      ],
+      "venue": null,
+      "DOI": null,
+      "url": "https://biblio.ugent.be/publication/01H4BTDG9T52F9CHRY6N5BT7EG",
+      "abstractNote": null,
+      "extra": null,
+      "citationKey": "staessensBringingReinforcementLearning2023",
+      "attachments": [],
+      "pdfCount": 0
+    },
+    {
+      "itemID": 4244,
+      "key": "T3B5235I",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-25 14:48:46",
+      "dateModified": "2026-04-25 14:48:53",
+      "title": "A Robust Control Scheme for PMSM Based on Integral Reinforcement Learning",
+      "year": "2025",
+      "date": "2025-02-00 2/2025",
+      "creators": [
+        "Qi Guan",
+        "Xuliang Yao",
+        "Zifan Lin",
+        "Jingfang Wang",
+        "Herbert Ho Ching Iu",
+        "Tyrone Fernando",
+        "Xinan Zhang"
+      ],
+      "venue": "IEEE Transactions on Transportation Electrification",
+      "DOI": "10.1109/TTE.2024.3455574",
+      "url": "https://ieeexplore.ieee.org/document/10674759/",
+      "abstractNote": "This article proposes an integral reinforcement learning (IRL)-based H∞ control algorithm for permanent magnet synchronous motor (PMSM) drives with excellent performance and guaranteed stability. Owing to its model-free nature, this algorithm achieves superior current regulation without any prior knowledge of motor parameters. Unlike the traditional offline reinforcement learning (RL) algorithms, which rely heavily on the quality of presampled data for training, the proposed algorithm optimizes the control strategy online using real-time data. The convergence of the proposed algorithm is proved. Moreover, a simple actor–critic structure-based neural network (NN) is employed to iteratively update the control policy by a recursive least-square (RLS) approach with low computational burden. The effectiveness of the proposed algorithm is experimentally verified on a 2-kW PMSM prototype.",
+      "extra": null,
+      "citationKey": "guanRobustControlScheme2025",
+      "attachments": [
+        {
+          "itemID": 4243,
+          "key": "AYS445XK",
+          "contentType": "application/pdf",
+          "path": "storage:Guan 等 - 2025 - A Robust Control Scheme for PMSM Based on Integral Reinforcement Learning.pdf",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\AYS445XK\\Guan 等 - 2025 - A Robust Control Scheme for PMSM Based on Integral Reinforcement Learning.pdf",
+          "exists": true
+        }
+      ],
+      "pdfCount": 1
+    },
+    {
+      "itemID": 4246,
+      "key": "HZNVXGSW",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-25 14:49:06",
+      "dateModified": "2026-04-25 14:49:17",
+      "title": "Learning-Enabled Output-Feedback-MPC-Based Synchronization Tracking Control of Multiaxis Motion Systems",
+      "year": "2023",
+      "date": "2023-07-00 7/2023",
+      "creators": [
+        "Yao-Wei Wang",
+        "Tao Yan",
+        "Wen-An Zhang",
+        "Min Wu",
+        "Chengda Lu"
+      ],
+      "venue": "IEEE Transactions on Industrial Electronics",
+      "DOI": "10.1109/TIE.2022.3203753",
+      "url": "https://ieeexplore.ieee.org/document/9884984/",
+      "abstractNote": "The unknown and time-varying model parameters and measurement noises impose great inﬂuence on the high-precision synchronization tracking control performance of multiaxis motion systems (MAMSs). To deal with the inﬂuence of the factors on the high-precision synchronization tracking control performance in MAMSs, a learning-enabled output-feedback model-predictive control (MPC) strategy for MAMSs is proposed in this article. First, an efﬁcient learning mechanism is introduced to capture the unknown and slow time-varying behavior of the system parameters. Then, considering both the existence of the measurement noises and the unavailability of the velocity signals in system and synchronization coupling errors, the learning-enabled output-feedback-MPC-based synchronization tracking controller is designed to achieve the highprecision synchronization tracking control of the MAMSs. The stability of the overall synchronization tracking system with the proposed learning procedure is analyzed. Finally, simulations and experiments are performed on the fourmotor motion system to demonstrate the practicability and effectiveness of the proposed control strategy.",
+      "extra": null,
+      "citationKey": "wangLearningEnabledOutputFeedbackMPCBasedSynchronization2023",
+      "attachments": [
+        {
+          "itemID": 4245,
+          "key": "WVGK92ZM",
+          "contentType": "application/pdf",
+          "path": "storage:Wang 等 - 2023 - Learning-enabled output-feedback-MPC-based synchronization tracking control of multiaxis motion syst.pdf",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\WVGK92ZM\\Wang 等 - 2023 - Learning-enabled output-feedback-MPC-based synchronization tracking control of multiaxis motion syst.pdf",
+          "exists": true
+        }
+      ],
+      "pdfCount": 1
+    },
+    {
+      "itemID": 4250,
+      "key": "RL9SLYFF",
+      "itemType": "conferencePaper",
+      "dateAdded": "2026-04-25 14:50:16",
+      "dateModified": "2026-04-25 14:50:37",
+      "title": "Towards Robust Deep Reinforcement Learning Agent for the Path Following of Autonomous Ships Amid Perception Sensor Noise",
+      "year": "2025",
+      "date": "2025-00-00 2025",
+      "creators": [
+        "Paul Lee",
+        "Ekaterina Kim"
+      ],
+      "venue": "35th European Safety and Reliability Conference (ESREL 2025) and the 33rd Society for Risk Analysis Europe Conference (SRA-E 2025)",
+      "DOI": "10.3850/978-981-94-3281-3_ESREL-SRA-E2025-P7222-cd",
+      "url": "https://rpsonline.com.sg/proceedings/esrel-sra-e2025/html/ESREL-SRA-E2025-P7222.html",
+      "abstractNote": "In the era of maritime autonomous surface ships (MASSs), intelligent agents are projected to make safetycritical decisions without human intervention. Considering the various disturbances associated with the maritime environment, enhancing their robustness during safety-critical operations is pivotal, including those related to path following. The aim of this study is to propose a methodology that enhances the robustness of path following for a MASS amid perception sensor noise by controlling the state space parameter of a deep reinforcement learning agent. The agent is trained to follow a predeﬁned path at various noise levels between a minimum and maximum value, and a robustness metric based on the cross-track error is deﬁned. The case study considers a container vessel that uses light detection and ranging for the situation awareness of its surrounding environment. Simulation results suggest that when the state space parameter related to the value of the noise level is controlled, the robustness is enhanced up to 5,668% from its maximum trained value by not violating the cross-track error threshold. When the state space parameter is not controlled, an enhancement of up to 112% is noted, highlighting the effectiveness of the proposed methodology. This study contributes towards the development of agents capable of making robust decisions during safety-critical operations under uncertainty.",
+      "extra": null,
+      "citationKey": "leeRobustDeepReinforcement2025a",
+      "attachments": [
+        {
+          "itemID": 4249,
+          "key": "8YGV32KY",
+          "contentType": "application/pdf",
+          "path": "storage:Lee和Kim - 2025 - Towards Robust Deep Reinforcement Learning Agent for the Path Following of Autonomous Ships Amid Per.pdf",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\8YGV32KY\\Lee和Kim - 2025 - Towards Robust Deep Reinforcement Learning Agent for the Path Following of Autonomous Ships Amid Per.pdf",
+          "exists": true
+        }
+      ],
+      "pdfCount": 1
+    },
+    {
+      "itemID": 4252,
+      "key": "Z6GN36UX",
+      "itemType": "journalArticle",
+      "dateAdded": "2026-04-25 14:50:50",
+      "dateModified": "2026-04-25 14:58:48",
+      "title": "Self-optimization composite dynamic control for trajectory tracking of robot manipulators via deep reinforcement learning",
+      "year": "2025",
+      "date": "2025-07-10 2025-07-10",
+      "creators": [
+        "Chenyang Kuang",
+        "Linyan Han",
+        "Kun Liang",
+        "Jianliang Mao",
+        "Chuanlin Zhang"
+      ],
+      "venue": "Journal of Control and Decision",
+      "DOI": "10.1080/23307706.2025.2526823",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/23307706.2025.2526823",
+      "abstractNote": "In practical engineering applications, robot manipulators frequently encounter varying payloads, posing significant challenges for fixed-parameter dynamic controllers to maintain optimal performance across diverse operating conditions. To address this issue, this paper proposes a learning-based parameter self-optimization method to enhance the adaptability of the dynamic controller. Specifically, a non-smooth composite control framework is initially designed, leveraging its fractional power factor and scaling factor to improve robustness compared to traditional smooth controllers. A Markov decision process (MDP) is subsequently formulated, integrating fundamental control objectives such as minimizing tracking error and reducing control energy consumption. By utilizing the soft actor-critic (SAC) algorithm, an adaptive parameter self-optimization scheme is developed to optimize transient performance and enhance system adaptability. Training results demonstrate that compared with those feasible fixed-parameter controllers, the proposed method achieves up to 80.0% reduction in root mean square error (RMSE) of the compared with the classical computed torque control (CTC) method while maintaining smooth control inputs. Experimental validation under varying payloads and velocities highlights the effectiveness of the proposed method.",
+      "extra": null,
+      "citationKey": "kuangSelfoptimizationCompositeDynamic2025",
+      "attachments": [
+        {
+          "itemID": 4251,
+          "key": "72HSUFYE",
+          "contentType": "application/pdf",
+          "path": "storage:Kuang 等 - 2025 - Self-optimization composite dynamic control for trajectory tracking of robot manipulators via deep r.pdf",
+          "resolvedPath": "D:\\Zotero_sunzemin51\\storage\\72HSUFYE\\Kuang 等 - 2025 - Self-optimization composite dynamic control for trajectory tracking of robot manipulators via deep r.pdf",
+          "exists": true
+        }
+      ],
+      "pdfCount": 1
+    }
+  ]
+}
