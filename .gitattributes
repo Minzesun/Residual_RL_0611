@@ -1,0 +1,16 @@
+*.py text eol=lf
+*.md text eol=lf
+*.toml text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+*.ipynb text eol=lf -diff
+*.txt text eol=lf
+*.csv text eol=lf
+*.docx binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pt binary
+*.pth binary
+*.onnx binary
