@@ -13,7 +13,7 @@ Build a clean `Residual_RL0611` repository that turns the previous PID + residua
 - [x] Phase 3: Migrate necessary source assets from `Residual_RL0423`.
 - [x] Phase 4: Implement minimal Python project for equivalent-disturbance residual SAC.
 - [x] Phase 5: Add tests and smoke verification.
-- [ ] Phase 6: Run Claude Code stage audit and incorporate actionable fixes.
+- [x] Phase 6: Run Claude Code stage audit and incorporate actionable fixes.
 - [ ] Phase 7: Initialize Git repository, commit, connect remote, and push to GitHub.
 
 ## Key Questions
@@ -34,4 +34,4 @@ Build a clean `Residual_RL0611` repository that turns the previous PID + residua
 - Claude Code plugin skills exist in plugin cache, but callable shell execution must be verified after the new repo has a Git diff.
 
 ## Status
-**Currently in Phase 6** - Initializing Git and running a stage audit before publication.
+**Currently in Phase 7** - Publishing the repository to GitHub and verifying remote state.
